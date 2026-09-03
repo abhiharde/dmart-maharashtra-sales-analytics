@@ -1,61 +1,208 @@
-🧭 End‑to‑End Project Steps
+DMart ETL Project Steps
+=======================
 
-🔹 Phase 1: Setup
-1. Define business objectives — e.g., sales performance, store trends, product analysis.
-2. Collect raw CSVs — Sales transactions, Store info, Products, Calendar.
+1. Project objective
+--------------------
+Build a retail analytics pipeline that answers questions about revenue,
+transactions, products, stores, payment methods, and seasons.
 
----
+2. Source data
+--------------
+Collect these CSV files:
 
-🔹 Phase 1: Setup
-1. Initialize dbt project → `dbt init dmart_project`.
-2. Configure `profiles.yml` → connect dbt to Snowflake (account, user, role, warehouse, database).
-3. Define sources → in `sources.yml`, point to the `RAW_DATA` schema tables (sales, store, product, calendar).
+- calendar.csv
+- products.csv
+- sales_transactions.csv
+- store_info.csv
 
----
+Load them into Snowflake under the DMART_ETL.RAW_DATA schema. The four raw
+tables are referenced in models/sources.yml.
 
-🔹 Phase 2: Bronze Layer (via dbt)
-4. Create BRONZE schema → dbt will materialize models into `DMART_ANALYTICS.BRONZE`.
-5. Bronze models → simple `SELECT ` from `RAW_DATA` sources, preserving raw structure but moving into managed schema.
-6. Run dbt build → `dbt run` to create Bronze tables.
-7. Test Bronze → row counts, schema matches, ingestion validation.
+3. Configure dbt
+----------------
+Use the dbt project directory:
 
----
+	D:\Study\DMart ETL\DMartETL_DBT\dmart_ETL_project
 
-🔹 Phase 3: Silver Layer (via dbt)
-8. Create SILVER schema → dbt materializes cleaned tables.
-9. Silver models → apply transformations:
- - Standardize column names
- - Cast data types (dates, numbers)
- - Handle nulls and blanks
- - Trim whitespace, fix casing
-10. Run dbt tests → uniqueness, not null, referential integrity.
+Activate the environment and check the Snowflake connection:
 
----
+	cd "D:\Study\DMart ETL"
+	.\.venv\Scripts\Activate.ps1
+	cd ".\DMartETL_DBT\dmart_ETL_project"
+	dbt debug
 
-🔹 Phase 4: Gold Layer (via dbt)
-12. Create GOLD schema → dbt materializes analytical models.
-13. Design star schema →
-- Fact table: Sales (eg - transaction_id, store_id, product_id, date_id, revenue, quantity, and other numerical objects).
-- Dimensions: eg - Store, Product, Calendar, and other detailed level objects.
-14. Gold models → aggregate Silver data into fact + dimension tables.
-15. Add KPIs → eg - revenue, sales volume, avg basket size, store performance.
-16. Run dbt build → compile and materialize Gold tables.
+The Snowflake profile is stored outside the repository in the user's .dbt
+folder. Do not commit passwords or credentials.
 
+4. Bronze layer
+---------------
+Bronze models are raw pass-through views:
 
+- bronze_calendar.sql
+- bronze_products.sql
+- bronze_sales.sql
+- bronze_stores.sql
 
+They select data from RAW_DATA and create views in DMART_ETL.BRONZE. Bronze
+preserves the source structure and creates a stable starting point.
 
+	dbt run --select bronze
 
----
+5. Silver layer
+--------------
+Silver models clean and standardize the Bronze data:
 
-🔹 Phase 5: Visualization (Power BI)
-18. Connect Power BI to Snowflake → using Snowflake connector (warehouse, DB, schema).
-19. Import Gold tables → fact + dimensions into Power BI model.
-20. Build dashboard →
-- Sales trends over time
-- Store performance comparison
-- Product category breakdown
-- Seasonal analysis via calendar dimension
-21. Add filters & slicers → by store, product category, date range.
-22. Publish dashboard → share via Power BI Service.
+- silver_calender.sql
+- silver_products.sql
+- silver_sales.sql
+- silver_stores.sql
 
----
+They trim spaces, convert blanks to NULL, standardize text casing, cast dates
+and numbers, and convert flags to Boolean values. They create views in
+DMART_ETL.SILVER.
+
+	dbt run --select silver
+
+6. Gold layer
+-------------
+Gold models are business-ready tables in DMART_ETL.GOLD:
+
+- obt_sales.sql joins Silver sales, products, stores, and calendar data into
+  one wide staging table.
+- fact_sales.sql is the central transaction fact table.
+- dim_product.sql stores product descriptions.
+- dim_store.sql stores store descriptions.
+- dim_calendar.sql stores date descriptions.
+- kpi_sales.sql calculates store-and-date-level KPIs.
+
+The star-schema relationships are:
+
+	DIM_STORE[STORE_ID]       1 -> many FACT_SALES[STORE_ID]
+	DIM_PRODUCT[PRODUCT_ID]   1 -> many FACT_SALES[PRODUCT_ID]
+	DIM_CALENDAR[DATE_ID]     1 -> many FACT_SALES[DATE_ID]
+
+	dbt build --select gold
+
+7. Macros
+---------
+Macros are reusable Jinja and SQL functions:
+
+- clean_text.sql trims text and converts blanks to NULL.
+- safe_divide.sql prevents division by zero.
+- generate_schema_name.sql routes models to exact Bronze, Silver, and Gold
+  schemas.
+
+Macros reduce repeated SQL and make common logic easier to maintain.
+
+8. Seeds
+--------
+Seeds are small CSV reference files stored in the dbt project:
+
+- payment_mode_lookup.csv
+- store_type_lookup.csv
+
+They can be loaded as warehouse tables with:
+
+	dbt seed
+
+Seeds are useful for small, stable lookup data.
+
+9. Snapshots
+------------
+Snapshots preserve historical versions of changing records:
+
+- snapshot_products.sql tracks product changes.
+- snapshot_stores.sql tracks store changes.
+
+Run them with:
+
+	dbt snapshot
+
+10. Tests
+--------
+Tests check data quality. A test passes when it returns zero invalid rows:
+
+- fact_sales_no_negative_revenue.sql checks for negative revenue.
+- fact_sales_valid_product_keys.sql checks that product keys exist in the
+  product dimension.
+
+	dbt test
+
+11. Run the entire dbt project
+------------------------------
+Run this command from the directory containing dbt_project.yml:
+
+	dbt build
+
+This builds enabled seeds, models, and tests in dependency order. A successful
+run should finish with zero errors.
+
+12. Connect Power BI
+--------------------
+In Power BI Desktop, select Get Data, then Snowflake. Connect to:
+
+- Database: DMART_ETL
+- Schema: GOLD
+
+Load only these four tables:
+
+- FACT_SALES
+- DIM_STORE
+- DIM_PRODUCT
+- DIM_CALENDAR
+
+Do not load OBT_SALES for the final report. It is a staging table. KPI_SALES is
+optional because Power BI can calculate KPIs with DAX measures.
+
+13. Power BI relationships and measures
+---------------------------------------
+Create the three one-to-many relationships shown in the Gold section. Use
+Single cross-filter direction and keep the dimensions on the one side.
+
+Create these measures in FACT_SALES:
+
+	Total Revenue = SUM(FACT_SALES[REVENUE])
+	Total Quantity = SUM(FACT_SALES[QUANTITY])
+	Total Transactions = DISTINCTCOUNT(FACT_SALES[TRANSACTION_ID])
+	Average Basket Size = DIVIDE([Total Revenue], [Total Transactions])
+	Return Transactions = CALCULATE([Total Transactions], FACT_SALES[IS_RETURN] = TRUE())
+	Return Rate = DIVIDE([Return Transactions], [Total Transactions])
+
+14. Build one dashboard page
+----------------------------
+Create a page named Sales Overview with:
+
+- KPI cards: revenue, transactions, quantity, basket size, and return rate.
+- Line chart: revenue by calendar date.
+- Bar chart: revenue by store name.
+- Treemap: revenue by product category and subcategory.
+- Donut chart: transactions by payment mode.
+- Column chart: revenue by season.
+- Pie chart: revenue by store type.
+- Slicers: date, state, store type, category, sales channel, and payment mode.
+
+15. Refresh workflow
+---------------------
+When source data changes:
+
+	cd "D:\Study\DMart ETL\DMartETL_DBT\dmart_ETL_project"
+	dbt build
+
+Then select Refresh in Power BI. Check that slicers update all charts and that
+the dashboard relationships remain active.
+
+16. GitHub
+----------
+The repository contains the dbt project, source CSVs, Power BI report,
+documentation, and this workflow. Generated dbt files, virtual environments,
+logs, and credentials must stay excluded from GitHub.
+
+Overall workflow:
+
+	CSV files
+	  -> Snowflake RAW_DATA
+	  -> dbt Bronze
+	  -> dbt Silver
+	  -> dbt Gold
+	  -> Power BI dashboard
+	  -> GitHub documentation and source code
