@@ -1,0 +1,1101 @@
+product_id,category,subcategory,brand,unit_size,unit_measure,mrp,supplier_id,shelf_life_days,import_flag
+P00001,FMCG,Snacks,Haldiram's,100g,g,381.65,SUP070,189,Domestic
+P00002,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Pack of 10,pcs,192.08,SUP040,0,Domestic
+P00003,Footwear,Women's Footwear,Bata,UK9,pcs,2262.35,SUP093,0,Domestic
+P00004,Home & Kitchen,Cookware,Milton,1 pc,pcs,844.71,SUP053,0,Domestic
+P00005,Toys & Stationery,School Bags,Dmart Premia (Own Brand),Set of 5,pcs,1093.2,SUP036,0,Domestic
+P00006,FMCG,Packaged Food,Amul,250ml,L,66.9,SUP010,18,Imported
+P00007,Home & Kitchen,Cleaning Supplies,Cello,Set of 3,pcs,1667.09,SUP076,0,Domestic
+P00008,Toys & Stationery,Notebooks,Classmate,Set of 5,pcs,1027.86,SUP015,0,Domestic
+P00009,Electronics,Small Appliances,Philips,1 pc,pcs,1383.19,SUP025,0,Domestic
+P00010,FMCG,Snacks,Parle,200g,g,343.62,SUP055,200,Domestic
+P00011,Home & Kitchen,Appliances,Cello,500ml,L,3484.87,SUP120,0,Domestic
+P00012,Personal Care,Haircare,Colgate-Palmolive,100ml,L,372.87,SUP066,526,Domestic
+P00013,FMCG,Confectionery,Coca-Cola,250ml,L,239.77,SUP026,142,Domestic
+P00014,Personal Care,Bath & Body,L'Oreal,50ml,L,426.62,SUP079,820,Domestic
+P00015,Home & Kitchen,Storage & Containers,Prestige,1L,L,2129.98,SUP019,0,Domestic
+P00016,FMCG,Bakery,Parle,100g,g,203.6,SUP059,78,Domestic
+P00017,Grocery,Spices,Dmart Premia (Own Brand),10kg,g,551.46,SUP112,134,Imported
+P00018,Electronics,Lighting,Syska,Pack of 4,pcs,847.52,SUP086,0,Domestic
+P00019,Home & Kitchen,Cleaning Supplies,Dmart Premia (Own Brand),1 pc,pcs,1673.47,SUP051,0,Domestic
+P00020,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Pack of 10,pcs,930.27,SUP099,0,Domestic
+P00021,Footwear,Men's Footwear,Relaxo,UK9,pcs,1676.19,SUP072,0,Domestic
+P00022,Home & Kitchen,Storage & Containers,Bajaj,Set of 6,pcs,1481.65,SUP029,0,Domestic
+P00023,FMCG,Bakery,Coca-Cola,6 pcs,pcs,220.01,SUP088,137,Domestic
+P00024,Electronics,Small Appliances,Philips,Pack of 2,pcs,2917.56,SUP089,0,Domestic
+P00025,FMCG,Bakery,Dmart Premia (Own Brand),250ml,L,11.36,SUP002,258,Domestic
+P00026,Grocery,Tea & Coffee,Everest,1kg,g,184.28,SUP044,254,Domestic
+P00027,Personal Care,Cosmetics,Dabur,100ml,L,376.93,SUP053,647,Domestic
+P00028,Personal Care,Haircare,P&G,100ml,L,364.45,SUP003,1028,Domestic
+P00029,Apparel,Men's Wear,MinCloud,M,pcs,1611.26,SUP036,0,Domestic
+P00030,Electronics,Small Appliances,Philips,1 pc,pcs,177.83,SUP054,0,Imported
+P00031,Toys & Stationery,Notebooks,Hot Wheels,1 pc,pcs,1168.74,SUP013,0,Domestic
+P00032,Toys & Stationery,Notebooks,Hot Wheels,Set of 5,pcs,863.01,SUP010,0,Domestic
+P00033,Apparel,Kids Wear,MinCloud,L,pcs,970.01,SUP023,0,Domestic
+P00034,Footwear,Kids Footwear,Fiesta,Free Size,pcs,2150.03,SUP004,0,Domestic
+P00035,Apparel,Men's Wear,MinCloud,XL,pcs,258.82,SUP066,0,Domestic
+P00036,Home & Kitchen,Appliances,Tupperware,Set of 6,pcs,3929.58,SUP110,0,Domestic
+P00037,Personal Care,Bath & Body,HUL,250g,g,262.46,SUP113,408,Domestic
+P00038,Grocery,Rice,Fortune,500g,g,709.05,SUP086,153,Domestic
+P00039,Home & Kitchen,Utensils,Milton,500ml,L,482.46,SUP014,0,Domestic
+P00040,Footwear,Men's Footwear,Fiesta,UK7,pcs,2410.53,SUP041,0,Domestic
+P00041,Electronics,Small Appliances,Bajaj,1 pc,pcs,5680.95,SUP033,0,Domestic
+P00042,Grocery,Edible Oil,Fortune,5L,L,509.19,SUP037,338,Domestic
+P00043,Personal Care,Skincare,Colgate-Palmolive,50ml,L,29.84,SUP107,596,Domestic
+P00044,Footwear,Men's Footwear,Relaxo,UK7,pcs,1770.08,SUP003,0,Domestic
+P00045,Personal Care,Oral Care,P&G,200ml,L,628.03,SUP009,988,Domestic
+P00046,Personal Care,Skincare,HUL,50ml,L,224.64,SUP113,686,Domestic
+P00047,FMCG,Bakery,Haldiram's,100g,g,390.9,SUP016,245,Domestic
+P00048,Toys & Stationery,Art Supplies,Classmate,1 pc,pcs,21.23,SUP044,0,Imported
+P00049,Apparel,Nightwear,MinCloud,S,pcs,182.55,SUP017,0,Domestic
+P00050,Personal Care,Bath & Body,L'Oreal,150g,g,558.69,SUP116,482,Domestic
+P00051,Home & Kitchen,Cookware,Milton,500ml,L,2818.76,SUP120,0,Domestic
+P00052,FMCG,Dairy,Haldiram's,6 pcs,pcs,330.26,SUP098,7,Domestic
+P00053,Toys & Stationery,School Bags,Hot Wheels,1 pc,pcs,917.08,SUP049,0,Domestic
+P00054,Apparel,Men's Wear,PUP,S,pcs,1097.35,SUP119,0,Domestic
+P00055,Home & Kitchen,Utensils,Prestige,1L,L,3525.65,SUP048,0,Domestic
+P00056,Personal Care,Bath & Body,Patanjali,150g,g,526.01,SUP046,925,Domestic
+P00057,Home & Kitchen,Storage & Containers,Cello,1L,L,1391.93,SUP098,0,Domestic
+P00058,Grocery,Spices,Dmart Premia (Own Brand),5L,L,308.3,SUP090,178,Domestic
+P00059,Footwear,Men's Footwear,Dmart Fashion,UK8,pcs,326.02,SUP065,0,Imported
+P00060,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,665.94,SUP101,0,Domestic
+P00061,Toys & Stationery,School Bags,Hot Wheels,Set of 5,pcs,159.95,SUP084,0,Domestic
+P00062,Home & Kitchen,Appliances,Dmart Premia (Own Brand),Set of 6,pcs,1740.31,SUP069,0,Domestic
+P00063,Footwear,Kids Footwear,Ortho+Rest,UK7,pcs,1819.99,SUP011,0,Domestic
+P00064,Personal Care,Oral Care,HUL,100ml,L,239.06,SUP084,646,Domestic
+P00065,Electronics,Batteries,Havells,Pack of 2,pcs,290.62,SUP064,0,Domestic
+P00066,Grocery,Spices,Fortune,1L,L,705.47,SUP018,136,Domestic
+P00067,Electronics,Mobile Accessories,Havells,Pack of 4,pcs,3940.72,SUP057,0,Imported
+P00068,Grocery,Edible Oil,India Gate,1L,L,350.04,SUP077,302,Domestic
+P00069,Apparel,Kids Wear,PUP,M,pcs,1879.4,SUP021,0,Domestic
+P00070,Personal Care,Oral Care,HUL,150g,g,204.12,SUP116,774,Domestic
+P00071,Apparel,Nightwear,Adore,Free Size,pcs,1388.13,SUP064,0,Domestic
+P00072,Electronics,Batteries,Bajaj,Pack of 4,pcs,3007.85,SUP101,0,Domestic
+P00073,Footwear,Women's Footwear,Bata,UK7,pcs,271.95,SUP062,0,Domestic
+P00074,Home & Kitchen,Utensils,Milton,Set of 3,pcs,2669.8,SUP030,0,Domestic
+P00075,Footwear,Kids Footwear,Fiesta,UK6,pcs,1527.58,SUP006,0,Domestic
+P00076,Apparel,Nightwear,Divena,Free Size,pcs,939.74,SUP078,0,Domestic
+P00077,Grocery,Rice,MDH,5kg,g,354.54,SUP080,183,Domestic
+P00078,Personal Care,Bath & Body,L'Oreal,150g,g,184.15,SUP033,519,Domestic
+P00079,FMCG,Bakery,Amul,2L,L,309.95,SUP053,124,Domestic
+P00080,Apparel,Nightwear,Adore,S,pcs,887.56,SUP115,0,Domestic
+P00081,Home & Kitchen,Utensils,Prestige,Set of 3,pcs,2739.73,SUP032,0,Domestic
+P00082,Electronics,Lighting,boAt,Pack of 2,pcs,2038.62,SUP009,0,Domestic
+P00083,Electronics,Lighting,Philips,Pack of 2,pcs,2669.11,SUP089,0,Domestic
+P00084,FMCG,Dairy,ITC,250ml,L,188.56,SUP098,160,Domestic
+P00085,Grocery,Spices,MDH,10kg,g,501.06,SUP078,326,Domestic
+P00086,Apparel,Nightwear,Divena,Free Size,pcs,643.35,SUP071,0,Domestic
+P00087,Electronics,Batteries,Philips,1 pc,pcs,765.61,SUP110,0,Domestic
+P00088,Personal Care,Haircare,Dabur,150g,g,262.22,SUP114,901,Domestic
+P00089,Footwear,Men's Footwear,Bata,UK9,pcs,207.89,SUP015,0,Domestic
+P00090,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),1L,L,328.8,SUP083,0,Domestic
+P00091,Electronics,Small Appliances,Eveready,Pack of 4,pcs,4119.11,SUP054,0,Domestic
+P00092,Grocery,Pulses,Dmart Premia (Own Brand),10kg,g,644.81,SUP025,145,Domestic
+P00093,Personal Care,Oral Care,Dabur,250g,g,280.78,SUP055,527,Imported
+P00094,Footwear,Kids Footwear,Dmart Fashion,UK9,pcs,748.79,SUP065,0,Domestic
+P00095,FMCG,Bakery,PepsiCo,100g,g,170.85,SUP077,233,Domestic
+P00096,FMCG,Beverages,PepsiCo,2L,L,158.02,SUP033,27,Domestic
+P00097,Footwear,Kids Footwear,Dmart Fashion,UK7,pcs,1310.82,SUP090,0,Domestic
+P00098,Footwear,Women's Footwear,Relaxo,UK9,pcs,2372.68,SUP041,0,Domestic
+P00099,Electronics,Small Appliances,boAt,Pack of 2,pcs,4222.37,SUP097,0,Domestic
+P00100,Apparel,Kids Wear,Adore,S,pcs,1368.76,SUP067,0,Imported
+P00101,Footwear,Women's Footwear,Relaxo,UK9,pcs,1528.49,SUP052,0,Domestic
+P00102,Personal Care,Oral Care,Patanjali,200ml,L,558.44,SUP049,516,Domestic
+P00103,Electronics,Lighting,Havells,1 pc,pcs,4130.63,SUP117,0,Domestic
+P00104,Home & Kitchen,Appliances,Cello,500ml,L,1584.54,SUP031,0,Domestic
+P00105,Footwear,Women's Footwear,Relaxo,UK7,pcs,2214.32,SUP040,0,Domestic
+P00106,Footwear,Men's Footwear,Bata,UK8,pcs,445.26,SUP015,0,Domestic
+P00107,Apparel,Nightwear,Adore,L,pcs,1449.89,SUP026,0,Domestic
+P00108,Footwear,Kids Footwear,Ortho+Rest,UK8,pcs,1310.93,SUP096,0,Domestic
+P00109,Electronics,Mobile Accessories,Havells,1 pc,pcs,5056.45,SUP030,0,Domestic
+P00110,Electronics,Lighting,boAt,1 pc,pcs,806.18,SUP011,0,Domestic
+P00111,Footwear,Kids Footwear,Bata,UK7,pcs,622.82,SUP003,0,Domestic
+P00112,Footwear,Kids Footwear,Dmart Fashion,UK6,pcs,298.66,SUP102,0,Domestic
+P00113,FMCG,Dairy,ITC,6 pcs,pcs,262.81,SUP005,35,Domestic
+P00114,Toys & Stationery,Pens & Pencils,Dmart Premia (Own Brand),1 pc,pcs,47.91,SUP033,0,Domestic
+P00115,Footwear,Kids Footwear,Ortho+Rest,UK6,pcs,1026.34,SUP044,0,Domestic
+P00116,Grocery,Rice,MDH,5kg,g,495.88,SUP051,271,Domestic
+P00117,FMCG,Packaged Food,Parle,6 pcs,pcs,265.79,SUP022,105,Domestic
+P00118,FMCG,Packaged Food,Dmart Premia (Own Brand),2L,L,150.0,SUP096,84,Domestic
+P00119,Toys & Stationery,Notebooks,Hot Wheels,Set of 5,pcs,251.8,SUP115,0,Domestic
+P00120,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,476.84,SUP019,0,Imported
+P00121,Grocery,Spices,Tata,5kg,g,813.42,SUP087,330,Imported
+P00122,Toys & Stationery,Pens & Pencils,Classmate,Pack of 10,pcs,561.91,SUP112,0,Domestic
+P00123,Footwear,Women's Footwear,Dmart Fashion,Free Size,pcs,1523.61,SUP010,0,Domestic
+P00124,Grocery,Rice,Fortune,1L,L,34.13,SUP096,211,Domestic
+P00125,Personal Care,Skincare,Dabur,200ml,L,140.18,SUP007,416,Domestic
+P00126,Personal Care,Skincare,Colgate-Palmolive,200ml,L,170.0,SUP117,532,Domestic
+P00127,Grocery,Spices,Tata,500g,g,476.89,SUP017,279,Domestic
+P00128,Personal Care,Bath & Body,Patanjali,50ml,L,218.7,SUP117,667,Domestic
+P00129,Footwear,Kids Footwear,Relaxo,UK7,pcs,333.64,SUP107,0,Domestic
+P00130,Electronics,Lighting,Philips,Pack of 2,pcs,1574.29,SUP039,0,Domestic
+P00131,Toys & Stationery,Art Supplies,Classmate,1 pc,pcs,900.84,SUP032,0,Domestic
+P00132,Home & Kitchen,Cookware,Milton,1L,L,2344.77,SUP098,0,Domestic
+P00133,FMCG,Dairy,Britannia,500g,g,68.51,SUP086,173,Domestic
+P00134,FMCG,Beverages,PepsiCo,500ml,L,337.16,SUP050,243,Imported
+P00135,Toys & Stationery,Notebooks,Funskool,Pack of 10,pcs,1165.18,SUP048,0,Imported
+P00136,Home & Kitchen,Utensils,Pigeon,500ml,L,987.95,SUP080,0,Imported
+P00137,Toys & Stationery,School Bags,Hot Wheels,Set of 5,pcs,733.36,SUP103,0,Imported
+P00138,Personal Care,Skincare,P&G,250g,g,62.46,SUP041,452,Domestic
+P00139,Home & Kitchen,Cleaning Supplies,Milton,Set of 3,pcs,4289.07,SUP005,0,Domestic
+P00140,Toys & Stationery,School Bags,Camlin,Set of 5,pcs,1009.82,SUP004,0,Domestic
+P00141,Home & Kitchen,Cleaning Supplies,Milton,1L,L,3796.21,SUP038,0,Domestic
+P00142,Toys & Stationery,Pens & Pencils,Hot Wheels,1 pc,pcs,475.87,SUP082,0,Domestic
+P00143,Apparel,Women's Wear,Divena,XL,pcs,1462.26,SUP070,0,Domestic
+P00144,Footwear,Women's Footwear,Ortho+Rest,UK8,pcs,2378.04,SUP032,0,Domestic
+P00145,Home & Kitchen,Storage & Containers,Tupperware,Set of 6,pcs,1802.26,SUP040,0,Domestic
+P00146,Toys & Stationery,School Bags,Funskool,1 pc,pcs,480.27,SUP071,0,Domestic
+P00147,Electronics,Mobile Accessories,Philips,1 pc,pcs,5202.27,SUP006,0,Domestic
+P00148,Home & Kitchen,Utensils,Prestige,Set of 3,pcs,848.65,SUP101,0,Domestic
+P00149,Apparel,Nightwear,PUP,L,pcs,1871.63,SUP082,0,Domestic
+P00150,Footwear,Men's Footwear,Dmart Fashion,UK7,pcs,1791.02,SUP066,0,Domestic
+P00151,Home & Kitchen,Appliances,Dmart Premia (Own Brand),1L,L,3193.15,SUP002,0,Imported
+P00152,Apparel,Men's Wear,Divena,M,pcs,1461.81,SUP037,0,Domestic
+P00153,FMCG,Bakery,Parle,200g,g,222.2,SUP091,171,Imported
+P00154,Personal Care,Skincare,HUL,50ml,L,303.74,SUP016,988,Imported
+P00155,FMCG,Dairy,Parle,250ml,L,98.56,SUP054,101,Imported
+P00156,FMCG,Dairy,Coca-Cola,50g,g,104.59,SUP118,141,Imported
+P00157,Apparel,Women's Wear,MinCloud,XL,pcs,291.28,SUP093,0,Domestic
+P00158,Grocery,Edible Oil,Everest,5L,L,180.5,SUP029,348,Domestic
+P00159,FMCG,Snacks,Nestle,1L,L,113.17,SUP053,19,Imported
+P00160,FMCG,Snacks,PepsiCo,1kg,g,216.31,SUP028,22,Domestic
+P00161,Toys & Stationery,Art Supplies,Classmate,Pack of 10,pcs,975.09,SUP022,0,Domestic
+P00162,Grocery,Spices,India Gate,500g,g,256.16,SUP101,351,Domestic
+P00163,Personal Care,Bath & Body,Dabur,100ml,L,200.62,SUP114,1027,Domestic
+P00164,Toys & Stationery,Toys,Hot Wheels,Pack of 10,pcs,760.68,SUP029,0,Domestic
+P00165,Home & Kitchen,Storage & Containers,Tupperware,Set of 3,pcs,2646.06,SUP046,0,Domestic
+P00166,Toys & Stationery,Toys,Dmart Premia (Own Brand),Pack of 10,pcs,469.11,SUP094,0,Domestic
+P00167,Footwear,Men's Footwear,Relaxo,Free Size,pcs,1693.41,SUP053,0,Domestic
+P00168,FMCG,Packaged Food,Parle,2L,L,110.78,SUP051,19,Domestic
+P00169,FMCG,Snacks,Nestle,1L,L,136.15,SUP034,46,Domestic
+P00170,Personal Care,Haircare,Himalaya,100ml,L,433.26,SUP071,832,Domestic
+P00171,Toys & Stationery,Notebooks,Classmate,Pack of 10,pcs,129.52,SUP027,0,Domestic
+P00172,Apparel,Innerwear,Divena,L,pcs,1303.24,SUP107,0,Imported
+P00173,Personal Care,Cosmetics,Himalaya,100ml,L,187.8,SUP042,556,Domestic
+P00174,Apparel,Kids Wear,Dmart Fashion,M,pcs,560.34,SUP049,0,Domestic
+P00175,Footwear,Kids Footwear,Relaxo,UK8,pcs,664.56,SUP118,0,Domestic
+P00176,Electronics,Batteries,Eveready,Pack of 4,pcs,3573.06,SUP024,0,Domestic
+P00177,FMCG,Confectionery,Dmart Premia (Own Brand),500ml,L,232.95,SUP034,170,Domestic
+P00178,Home & Kitchen,Utensils,Milton,1L,L,2341.61,SUP091,0,Domestic
+P00179,Apparel,Women's Wear,Dmart Fashion,Free Size,pcs,840.7,SUP060,0,Domestic
+P00180,Apparel,Kids Wear,PUP,S,pcs,1721.6,SUP081,0,Domestic
+P00181,Footwear,Kids Footwear,Dmart Fashion,Free Size,pcs,1393.04,SUP094,0,Domestic
+P00182,Grocery,Pulses,India Gate,5L,L,49.12,SUP102,145,Imported
+P00183,Personal Care,Bath & Body,Himalaya,250g,g,275.17,SUP081,584,Domestic
+P00184,Personal Care,Cosmetics,Himalaya,100ml,L,314.33,SUP091,1066,Imported
+P00185,Footwear,Kids Footwear,Relaxo,UK7,pcs,343.72,SUP029,0,Domestic
+P00186,Grocery,Edible Oil,Aashirvaad,5kg,g,736.41,SUP038,350,Domestic
+P00187,Personal Care,Haircare,HUL,250g,g,205.88,SUP017,666,Domestic
+P00188,Grocery,Atta & Flour,Aashirvaad,5L,L,600.33,SUP028,131,Domestic
+P00189,Apparel,Nightwear,Adore,XL,pcs,1802.41,SUP119,0,Domestic
+P00190,Toys & Stationery,Notebooks,Funskool,Set of 5,pcs,490.64,SUP081,0,Domestic
+P00191,FMCG,Confectionery,Parle,6 pcs,pcs,152.17,SUP114,9,Domestic
+P00192,Home & Kitchen,Cookware,Tupperware,1 pc,pcs,1820.98,SUP063,0,Domestic
+P00193,Home & Kitchen,Cookware,Prestige,1L,L,3766.63,SUP088,0,Domestic
+P00194,Electronics,Small Appliances,Syska,Pack of 4,pcs,1533.53,SUP002,0,Domestic
+P00195,Apparel,Kids Wear,Adore,S,pcs,1679.89,SUP011,0,Imported
+P00196,Toys & Stationery,Art Supplies,Funskool,Pack of 10,pcs,1214.07,SUP080,0,Domestic
+P00197,Footwear,Kids Footwear,Fiesta,Free Size,pcs,560.02,SUP059,0,Imported
+P00198,Footwear,Kids Footwear,Dmart Fashion,UK7,pcs,1053.38,SUP103,0,Domestic
+P00199,Footwear,Kids Footwear,Dmart Fashion,UK9,pcs,1285.75,SUP039,0,Domestic
+P00200,Home & Kitchen,Storage & Containers,Prestige,Set of 6,pcs,564.22,SUP018,0,Domestic
+P00201,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),1 pc,pcs,1198.34,SUP042,0,Domestic
+P00202,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,21.09,SUP096,0,Domestic
+P00203,Home & Kitchen,Utensils,Pigeon,1 pc,pcs,109.6,SUP034,0,Domestic
+P00204,Toys & Stationery,Art Supplies,Classmate,Set of 5,pcs,292.52,SUP092,0,Domestic
+P00205,Electronics,Batteries,Bajaj,Pack of 2,pcs,4019.7,SUP084,0,Domestic
+P00206,FMCG,Confectionery,PepsiCo,2L,L,133.3,SUP004,89,Domestic
+P00207,Toys & Stationery,Notebooks,Funskool,Set of 5,pcs,1194.26,SUP090,0,Domestic
+P00208,Personal Care,Bath & Body,Dabur,250g,g,392.31,SUP094,391,Domestic
+P00209,Toys & Stationery,Pens & Pencils,Dmart Premia (Own Brand),Pack of 10,pcs,911.49,SUP026,0,Domestic
+P00210,Footwear,Kids Footwear,Relaxo,UK8,pcs,640.08,SUP116,0,Domestic
+P00211,FMCG,Packaged Food,Haldiram's,100g,g,277.13,SUP045,59,Domestic
+P00212,FMCG,Snacks,Nestle,1kg,g,73.84,SUP041,199,Domestic
+P00213,Footwear,Kids Footwear,Fiesta,UK8,pcs,1373.51,SUP100,0,Domestic
+P00214,Footwear,Men's Footwear,Ortho+Rest,UK6,pcs,315.72,SUP050,0,Domestic
+P00215,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),Pack of 10,pcs,687.32,SUP024,0,Domestic
+P00216,FMCG,Packaged Food,PepsiCo,100g,g,359.26,SUP020,8,Domestic
+P00217,Footwear,Kids Footwear,Bata,UK8,pcs,1056.65,SUP108,0,Domestic
+P00218,Toys & Stationery,School Bags,Classmate,1 pc,pcs,440.95,SUP091,0,Domestic
+P00219,Personal Care,Oral Care,P&G,150g,g,164.02,SUP049,1012,Domestic
+P00220,Apparel,Kids Wear,Adore,XL,pcs,1696.35,SUP047,0,Domestic
+P00221,Home & Kitchen,Appliances,Bajaj,1 pc,pcs,575.73,SUP068,0,Domestic
+P00222,Apparel,Men's Wear,Adore,M,pcs,1949.71,SUP068,0,Domestic
+P00223,Home & Kitchen,Cleaning Supplies,Bajaj,1 pc,pcs,2013.23,SUP081,0,Domestic
+P00224,FMCG,Packaged Food,Nestle,50g,g,220.63,SUP066,181,Domestic
+P00225,Electronics,Batteries,boAt,Pack of 4,pcs,3046.54,SUP082,0,Domestic
+P00226,Apparel,Kids Wear,PUP,XL,pcs,1675.82,SUP112,0,Domestic
+P00227,Personal Care,Bath & Body,Patanjali,250g,g,484.69,SUP083,1059,Domestic
+P00228,Personal Care,Bath & Body,Himalaya,100ml,L,84.95,SUP100,579,Imported
+P00229,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,130.56,SUP002,0,Domestic
+P00230,Electronics,Lighting,Syska,Pack of 2,pcs,2087.95,SUP117,0,Domestic
+P00231,Apparel,Innerwear,Divena,M,pcs,1932.57,SUP022,0,Domestic
+P00232,FMCG,Beverages,Britannia,1kg,g,261.66,SUP079,239,Domestic
+P00233,Electronics,Mobile Accessories,Philips,Pack of 2,pcs,5627.32,SUP096,0,Domestic
+P00234,Footwear,Kids Footwear,Relaxo,UK7,pcs,938.43,SUP111,0,Domestic
+P00235,Electronics,Batteries,Bajaj,1 pc,pcs,4095.28,SUP053,0,Domestic
+P00236,Personal Care,Bath & Body,Patanjali,250g,g,86.38,SUP019,1071,Imported
+P00237,Apparel,Men's Wear,Divena,S,pcs,1910.56,SUP066,0,Domestic
+P00238,Footwear,Kids Footwear,Bata,UK6,pcs,1706.7,SUP111,0,Domestic
+P00239,Personal Care,Cosmetics,Colgate-Palmolive,200ml,L,364.98,SUP047,381,Domestic
+P00240,Footwear,Women's Footwear,Relaxo,UK7,pcs,1229.67,SUP098,0,Domestic
+P00241,Home & Kitchen,Appliances,Prestige,1 pc,pcs,1118.9,SUP034,0,Domestic
+P00242,Home & Kitchen,Cleaning Supplies,Prestige,Set of 3,pcs,3666.91,SUP100,0,Domestic
+P00243,Grocery,Edible Oil,Everest,1L,L,703.08,SUP062,241,Domestic
+P00244,Toys & Stationery,Art Supplies,Classmate,1 pc,pcs,923.6,SUP096,0,Domestic
+P00245,Apparel,Nightwear,PUP,L,pcs,1791.08,SUP076,0,Domestic
+P00246,Apparel,Men's Wear,Dmart Fashion,S,pcs,1178.82,SUP110,0,Domestic
+P00247,Toys & Stationery,Toys,Dmart Premia (Own Brand),Pack of 10,pcs,218.74,SUP049,0,Domestic
+P00248,Footwear,Women's Footwear,Fiesta,UK7,pcs,751.6,SUP069,0,Imported
+P00249,Apparel,Nightwear,Adore,M,pcs,1127.31,SUP036,0,Domestic
+P00250,Toys & Stationery,Pens & Pencils,Camlin,1 pc,pcs,1207.1,SUP068,0,Domestic
+P00251,Toys & Stationery,Pens & Pencils,Classmate,1 pc,pcs,805.96,SUP089,0,Domestic
+P00252,Toys & Stationery,Pens & Pencils,Funskool,Set of 5,pcs,1085.03,SUP017,0,Domestic
+P00253,Grocery,Spices,Dmart Premia (Own Brand),1L,L,260.3,SUP078,254,Domestic
+P00254,Toys & Stationery,Toys,Dmart Premia (Own Brand),Pack of 10,pcs,962.87,SUP098,0,Domestic
+P00255,FMCG,Beverages,Dmart Premia (Own Brand),1L,L,110.26,SUP069,32,Domestic
+P00256,FMCG,Beverages,Amul,6 pcs,pcs,143.34,SUP104,264,Domestic
+P00257,Footwear,Kids Footwear,Bata,Free Size,pcs,1720.76,SUP090,0,Domestic
+P00258,Personal Care,Bath & Body,Colgate-Palmolive,200ml,L,504.38,SUP096,526,Domestic
+P00259,Personal Care,Bath & Body,Patanjali,200ml,L,227.48,SUP105,1029,Domestic
+P00260,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),1L,L,1186.13,SUP056,0,Domestic
+P00261,Personal Care,Bath & Body,Patanjali,250g,g,493.66,SUP043,697,Domestic
+P00262,Footwear,Kids Footwear,Dmart Fashion,Free Size,pcs,1119.48,SUP097,0,Imported
+P00263,Grocery,Edible Oil,MDH,500g,g,256.21,SUP075,167,Domestic
+P00264,Home & Kitchen,Cleaning Supplies,Prestige,Set of 3,pcs,2450.83,SUP064,0,Domestic
+P00265,Electronics,Lighting,Philips,Pack of 2,pcs,2654.6,SUP017,0,Domestic
+P00266,Toys & Stationery,Art Supplies,Classmate,Set of 5,pcs,66.1,SUP043,0,Domestic
+P00267,Home & Kitchen,Storage & Containers,Prestige,Set of 3,pcs,3004.34,SUP093,0,Domestic
+P00268,Footwear,Women's Footwear,Ortho+Rest,UK8,pcs,1432.58,SUP025,0,Domestic
+P00269,Personal Care,Haircare,Patanjali,150g,g,307.78,SUP005,848,Domestic
+P00270,Footwear,Women's Footwear,Fiesta,Free Size,pcs,554.38,SUP020,0,Domestic
+P00271,Footwear,Women's Footwear,Dmart Fashion,UK6,pcs,463.6,SUP092,0,Domestic
+P00272,Apparel,Women's Wear,MinCloud,Free Size,pcs,1493.19,SUP022,0,Imported
+P00273,Grocery,Edible Oil,Aashirvaad,1kg,g,621.2,SUP042,278,Domestic
+P00274,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,2495.28,SUP029,0,Domestic
+P00275,Apparel,Women's Wear,Divena,M,pcs,1327.64,SUP001,0,Domestic
+P00276,FMCG,Dairy,Haldiram's,200g,g,163.03,SUP065,4,Domestic
+P00277,Grocery,Rice,India Gate,5L,L,79.94,SUP039,142,Domestic
+P00278,Toys & Stationery,Notebooks,Hot Wheels,Pack of 10,pcs,329.34,SUP002,0,Domestic
+P00279,Footwear,Men's Footwear,Fiesta,UK9,pcs,2452.25,SUP114,0,Domestic
+P00280,Grocery,Pulses,Tata,1kg,g,192.51,SUP059,271,Domestic
+P00281,Electronics,Mobile Accessories,Havells,1 pc,pcs,1706.8,SUP042,0,Imported
+P00282,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,598.92,SUP079,0,Domestic
+P00283,Personal Care,Oral Care,Colgate-Palmolive,250g,g,70.22,SUP042,392,Imported
+P00284,Home & Kitchen,Cookware,Cello,1 pc,pcs,3307.21,SUP028,0,Domestic
+P00285,Footwear,Kids Footwear,Relaxo,UK9,pcs,511.27,SUP084,0,Domestic
+P00286,Apparel,Innerwear,Adore,Free Size,pcs,604.54,SUP049,0,Domestic
+P00287,Electronics,Batteries,Havells,1 pc,pcs,4959.02,SUP004,0,Domestic
+P00288,Apparel,Women's Wear,Dmart Fashion,S,pcs,214.36,SUP070,0,Domestic
+P00289,Home & Kitchen,Storage & Containers,Milton,Set of 6,pcs,826.51,SUP044,0,Domestic
+P00290,Home & Kitchen,Storage & Containers,Milton,Set of 6,pcs,1023.24,SUP041,0,Domestic
+P00291,Home & Kitchen,Cookware,Cello,Set of 6,pcs,270.05,SUP016,0,Domestic
+P00292,Grocery,Pulses,MDH,1L,L,144.19,SUP095,196,Domestic
+P00293,Home & Kitchen,Cookware,Pigeon,1 pc,pcs,957.34,SUP011,0,Domestic
+P00294,Apparel,Nightwear,Dmart Fashion,L,pcs,1060.98,SUP097,0,Domestic
+P00295,Personal Care,Bath & Body,Himalaya,150g,g,649.62,SUP119,1003,Domestic
+P00296,FMCG,Snacks,Dmart Premia (Own Brand),500g,g,97.11,SUP064,7,Domestic
+P00297,Footwear,Women's Footwear,Dmart Fashion,UK9,pcs,829.25,SUP091,0,Domestic
+P00298,Personal Care,Skincare,L'Oreal,200ml,L,30.74,SUP081,831,Domestic
+P00299,Grocery,Spices,Everest,5L,L,379.29,SUP094,246,Domestic
+P00300,Electronics,Small Appliances,Eveready,Pack of 4,pcs,4349.03,SUP066,0,Domestic
+P00301,Electronics,Batteries,Havells,Pack of 4,pcs,865.9,SUP025,0,Domestic
+P00302,Personal Care,Oral Care,Colgate-Palmolive,50ml,L,155.3,SUP002,651,Domestic
+P00303,FMCG,Packaged Food,Amul,100g,g,165.43,SUP014,181,Domestic
+P00304,Electronics,Batteries,boAt,1 pc,pcs,519.45,SUP068,0,Domestic
+P00305,Personal Care,Cosmetics,Dabur,200ml,L,532.92,SUP082,424,Domestic
+P00306,Apparel,Kids Wear,Dmart Fashion,XL,pcs,1751.77,SUP036,0,Domestic
+P00307,Apparel,Kids Wear,Dmart Fashion,L,pcs,615.58,SUP115,0,Domestic
+P00308,Grocery,Rice,Fortune,10kg,g,603.56,SUP040,207,Domestic
+P00309,Electronics,Batteries,Havells,Pack of 4,pcs,2017.25,SUP070,0,Domestic
+P00310,Apparel,Women's Wear,Divena,L,pcs,1259.48,SUP058,0,Domestic
+P00311,Personal Care,Oral Care,Colgate-Palmolive,50ml,L,214.07,SUP016,904,Domestic
+P00312,Home & Kitchen,Appliances,Milton,Set of 6,pcs,203.05,SUP032,0,Domestic
+P00313,Toys & Stationery,School Bags,Dmart Premia (Own Brand),Pack of 10,pcs,1288.97,SUP099,0,Domestic
+P00314,FMCG,Confectionery,Haldiram's,6 pcs,pcs,132.16,SUP104,142,Domestic
+P00315,Grocery,Spices,Everest,5L,L,364.25,SUP049,114,Domestic
+P00316,Electronics,Lighting,boAt,Pack of 4,pcs,5260.28,SUP063,0,Domestic
+P00317,Toys & Stationery,Pens & Pencils,Classmate,Pack of 10,pcs,92.74,SUP115,0,Domestic
+P00318,Apparel,Men's Wear,Divena,L,pcs,870.7,SUP069,0,Domestic
+P00319,Footwear,Men's Footwear,Relaxo,Free Size,pcs,1796.2,SUP021,0,Domestic
+P00320,Home & Kitchen,Cookware,Cello,1 pc,pcs,2735.54,SUP003,0,Domestic
+P00321,Apparel,Innerwear,PUP,M,pcs,1624.04,SUP071,0,Imported
+P00322,Personal Care,Haircare,Colgate-Palmolive,50ml,L,116.39,SUP072,899,Domestic
+P00323,Apparel,Men's Wear,Adore,Free Size,pcs,1918.98,SUP039,0,Domestic
+P00324,Grocery,Edible Oil,Fortune,1L,L,772.31,SUP003,196,Domestic
+P00325,FMCG,Bakery,ITC,500g,g,168.42,SUP060,26,Domestic
+P00326,Footwear,Kids Footwear,Bata,UK6,pcs,236.43,SUP105,0,Domestic
+P00327,Home & Kitchen,Cookware,Tupperware,Set of 3,pcs,3970.4,SUP073,0,Domestic
+P00328,Grocery,Pulses,India Gate,500g,g,845.49,SUP015,288,Domestic
+P00329,FMCG,Snacks,ITC,1L,L,28.63,SUP100,43,Domestic
+P00330,Electronics,Lighting,Bajaj,1 pc,pcs,4252.01,SUP095,0,Domestic
+P00331,Grocery,Rice,Fortune,5kg,g,134.18,SUP029,246,Domestic
+P00332,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),1 pc,pcs,253.25,SUP022,0,Domestic
+P00333,Electronics,Lighting,Philips,Pack of 2,pcs,1470.59,SUP114,0,Domestic
+P00334,FMCG,Packaged Food,PepsiCo,1kg,g,101.5,SUP045,230,Domestic
+P00335,Personal Care,Bath & Body,L'Oreal,150g,g,316.13,SUP032,1073,Domestic
+P00336,Toys & Stationery,Notebooks,Classmate,Pack of 10,pcs,973.36,SUP080,0,Domestic
+P00337,Footwear,Men's Footwear,Ortho+Rest,UK6,pcs,1211.69,SUP042,0,Domestic
+P00338,Personal Care,Bath & Body,L'Oreal,250g,g,281.5,SUP043,879,Domestic
+P00339,Electronics,Mobile Accessories,Bajaj,1 pc,pcs,5770.17,SUP057,0,Domestic
+P00340,Toys & Stationery,School Bags,Camlin,Pack of 10,pcs,573.63,SUP003,0,Imported
+P00341,Footwear,Men's Footwear,Ortho+Rest,UK6,pcs,357.59,SUP105,0,Domestic
+P00342,Electronics,Mobile Accessories,Eveready,Pack of 4,pcs,4352.57,SUP007,0,Domestic
+P00343,Home & Kitchen,Cookware,Milton,Set of 3,pcs,2304.55,SUP022,0,Domestic
+P00344,Toys & Stationery,Art Supplies,Funskool,Pack of 10,pcs,877.71,SUP045,0,Domestic
+P00345,Apparel,Men's Wear,MinCloud,XL,pcs,599.97,SUP033,0,Domestic
+P00346,Footwear,Women's Footwear,Bata,UK9,pcs,584.04,SUP045,0,Domestic
+P00347,Home & Kitchen,Storage & Containers,Tupperware,1L,L,2450.66,SUP103,0,Domestic
+P00348,Home & Kitchen,Utensils,Tupperware,1L,L,1411.02,SUP007,0,Domestic
+P00349,FMCG,Snacks,Parle,6 pcs,pcs,289.58,SUP076,80,Domestic
+P00350,Electronics,Lighting,Havells,Pack of 2,pcs,4967.15,SUP118,0,Domestic
+P00351,Footwear,Women's Footwear,Fiesta,Free Size,pcs,272.36,SUP118,0,Domestic
+P00352,Grocery,Tea & Coffee,Dmart Premia (Own Brand),1kg,g,152.96,SUP044,306,Domestic
+P00353,Electronics,Batteries,Bajaj,Pack of 4,pcs,2810.33,SUP095,0,Imported
+P00354,Footwear,Kids Footwear,Dmart Fashion,UK6,pcs,1323.62,SUP030,0,Domestic
+P00355,Footwear,Men's Footwear,Relaxo,UK9,pcs,471.08,SUP104,0,Domestic
+P00356,Footwear,Women's Footwear,Ortho+Rest,UK9,pcs,1772.55,SUP054,0,Domestic
+P00357,FMCG,Beverages,Parle,6 pcs,pcs,339.37,SUP079,61,Domestic
+P00358,Apparel,Innerwear,PUP,Free Size,pcs,710.1,SUP073,0,Imported
+P00359,Toys & Stationery,Pens & Pencils,Funskool,Pack of 10,pcs,685.45,SUP087,0,Domestic
+P00360,FMCG,Packaged Food,Dmart Premia (Own Brand),50g,g,40.86,SUP041,98,Domestic
+P00361,Home & Kitchen,Storage & Containers,Prestige,1L,L,2134.17,SUP067,0,Domestic
+P00362,Toys & Stationery,Notebooks,Funskool,Pack of 10,pcs,67.24,SUP044,0,Domestic
+P00363,Grocery,Atta & Flour,MDH,5kg,g,558.38,SUP037,94,Domestic
+P00364,Home & Kitchen,Storage & Containers,Prestige,Set of 6,pcs,4465.98,SUP057,0,Domestic
+P00365,FMCG,Dairy,Haldiram's,50g,g,316.81,SUP045,249,Domestic
+P00366,Toys & Stationery,Pens & Pencils,Hot Wheels,1 pc,pcs,52.9,SUP120,0,Domestic
+P00367,Toys & Stationery,School Bags,Funskool,Pack of 10,pcs,626.36,SUP038,0,Domestic
+P00368,Grocery,Pulses,MDH,1kg,g,548.67,SUP017,188,Domestic
+P00369,Personal Care,Bath & Body,Colgate-Palmolive,50ml,L,473.17,SUP024,599,Domestic
+P00370,Footwear,Women's Footwear,Ortho+Rest,UK7,pcs,1781.74,SUP099,0,Domestic
+P00371,Toys & Stationery,Notebooks,Hot Wheels,Set of 5,pcs,474.84,SUP108,0,Domestic
+P00372,Grocery,Tea & Coffee,Aashirvaad,500g,g,261.68,SUP004,115,Domestic
+P00373,Apparel,Innerwear,Divena,Free Size,pcs,1150.79,SUP080,0,Domestic
+P00374,Toys & Stationery,Notebooks,Classmate,1 pc,pcs,783.34,SUP015,0,Domestic
+P00375,Home & Kitchen,Cookware,Bajaj,Set of 3,pcs,1481.77,SUP117,0,Domestic
+P00376,Grocery,Pulses,Fortune,1L,L,665.35,SUP088,348,Domestic
+P00377,Apparel,Kids Wear,Adore,Free Size,pcs,854.83,SUP002,0,Imported
+P00378,Personal Care,Bath & Body,Dabur,200ml,L,317.72,SUP018,711,Domestic
+P00379,Grocery,Atta & Flour,India Gate,5L,L,770.56,SUP030,260,Domestic
+P00380,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),Pack of 10,pcs,1118.42,SUP042,0,Imported
+P00381,Footwear,Men's Footwear,Fiesta,UK9,pcs,847.15,SUP005,0,Domestic
+P00382,FMCG,Snacks,Coca-Cola,50g,g,239.05,SUP050,114,Domestic
+P00383,Footwear,Men's Footwear,Bata,Free Size,pcs,925.04,SUP076,0,Domestic
+P00384,Apparel,Kids Wear,Dmart Fashion,Free Size,pcs,570.42,SUP066,0,Domestic
+P00385,FMCG,Confectionery,Coca-Cola,1kg,g,186.09,SUP027,66,Domestic
+P00386,FMCG,Snacks,Nestle,500g,g,213.62,SUP088,96,Imported
+P00387,Home & Kitchen,Cookware,Dmart Premia (Own Brand),500ml,L,572.3,SUP056,0,Domestic
+P00388,Grocery,Pulses,Aashirvaad,1kg,g,783.27,SUP082,92,Domestic
+P00389,Home & Kitchen,Cleaning Supplies,Milton,Set of 3,pcs,2793.26,SUP109,0,Domestic
+P00390,Grocery,Spices,Tata,1kg,g,619.08,SUP032,137,Domestic
+P00391,Grocery,Pulses,Dmart Premia (Own Brand),5L,L,454.2,SUP070,364,Domestic
+P00392,Electronics,Mobile Accessories,Bajaj,Pack of 2,pcs,642.98,SUP052,0,Domestic
+P00393,Footwear,Kids Footwear,Fiesta,UK9,pcs,2464.61,SUP094,0,Domestic
+P00394,Apparel,Women's Wear,MinCloud,L,pcs,1007.52,SUP080,0,Domestic
+P00395,Toys & Stationery,Pens & Pencils,Hot Wheels,1 pc,pcs,637.33,SUP048,0,Domestic
+P00396,Apparel,Women's Wear,Adore,M,pcs,1072.2,SUP036,0,Domestic
+P00397,Apparel,Nightwear,MinCloud,L,pcs,800.72,SUP094,0,Domestic
+P00398,Electronics,Batteries,Syska,Pack of 4,pcs,1509.92,SUP050,0,Domestic
+P00399,FMCG,Confectionery,Coca-Cola,500g,g,62.6,SUP014,118,Domestic
+P00400,Electronics,Lighting,boAt,Pack of 4,pcs,5956.27,SUP087,0,Domestic
+P00401,Grocery,Atta & Flour,Dmart Premia (Own Brand),5L,L,320.25,SUP046,180,Domestic
+P00402,FMCG,Confectionery,PepsiCo,6 pcs,pcs,312.28,SUP032,270,Domestic
+P00403,Home & Kitchen,Utensils,Prestige,500ml,L,2727.09,SUP096,0,Domestic
+P00404,Electronics,Small Appliances,Havells,1 pc,pcs,2194.9,SUP014,0,Domestic
+P00405,Electronics,Lighting,boAt,1 pc,pcs,2986.14,SUP036,0,Domestic
+P00406,Electronics,Mobile Accessories,boAt,Pack of 2,pcs,3582.15,SUP114,0,Domestic
+P00407,Personal Care,Haircare,Himalaya,50ml,L,188.13,SUP070,969,Domestic
+P00408,Footwear,Kids Footwear,Relaxo,UK7,pcs,680.46,SUP100,0,Domestic
+P00409,Grocery,Tea & Coffee,Fortune,5kg,g,404.0,SUP119,201,Domestic
+P00410,Footwear,Kids Footwear,Fiesta,Free Size,pcs,545.83,SUP026,0,Domestic
+P00411,Home & Kitchen,Appliances,Tupperware,Set of 6,pcs,3938.81,SUP109,0,Domestic
+P00412,Footwear,Kids Footwear,Dmart Fashion,Free Size,pcs,1628.1,SUP003,0,Domestic
+P00413,FMCG,Packaged Food,PepsiCo,100g,g,132.27,SUP067,14,Imported
+P00414,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Set of 5,pcs,238.71,SUP058,0,Domestic
+P00415,Grocery,Atta & Flour,MDH,5L,L,517.67,SUP049,354,Domestic
+P00416,Toys & Stationery,Pens & Pencils,Classmate,Pack of 10,pcs,916.69,SUP027,0,Domestic
+P00417,Grocery,Edible Oil,Tata,1L,L,842.62,SUP062,117,Domestic
+P00418,FMCG,Beverages,PepsiCo,2L,L,105.5,SUP052,101,Domestic
+P00419,FMCG,Packaged Food,ITC,250ml,L,371.94,SUP111,228,Domestic
+P00420,Footwear,Kids Footwear,Fiesta,UK9,pcs,783.26,SUP068,0,Domestic
+P00421,Electronics,Small Appliances,Havells,Pack of 4,pcs,5326.16,SUP114,0,Domestic
+P00422,Electronics,Small Appliances,Bajaj,1 pc,pcs,1729.63,SUP089,0,Domestic
+P00423,Personal Care,Bath & Body,Patanjali,150g,g,382.84,SUP063,705,Domestic
+P00424,Apparel,Men's Wear,PUP,XL,pcs,1303.15,SUP118,0,Domestic
+P00425,Home & Kitchen,Cookware,Pigeon,Set of 3,pcs,3744.24,SUP079,0,Domestic
+P00426,Electronics,Lighting,Bajaj,Pack of 2,pcs,1905.67,SUP102,0,Domestic
+P00427,FMCG,Bakery,PepsiCo,500g,g,255.8,SUP001,55,Domestic
+P00428,Home & Kitchen,Storage & Containers,Tupperware,1L,L,199.09,SUP084,0,Domestic
+P00429,Home & Kitchen,Cleaning Supplies,Pigeon,Set of 3,pcs,3298.02,SUP021,0,Domestic
+P00430,Personal Care,Bath & Body,Patanjali,50ml,L,433.9,SUP089,838,Domestic
+P00431,Personal Care,Skincare,Dabur,50ml,L,371.12,SUP005,825,Domestic
+P00432,Personal Care,Haircare,Himalaya,150g,g,541.41,SUP025,961,Domestic
+P00433,Toys & Stationery,School Bags,Classmate,1 pc,pcs,1258.63,SUP084,0,Domestic
+P00434,Electronics,Small Appliances,Syska,Pack of 4,pcs,1088.33,SUP016,0,Domestic
+P00435,Grocery,Tea & Coffee,India Gate,5kg,g,457.38,SUP005,205,Imported
+P00436,Home & Kitchen,Appliances,Bajaj,1L,L,3697.95,SUP107,0,Domestic
+P00437,Toys & Stationery,Toys,Camlin,Set of 5,pcs,1099.01,SUP016,0,Domestic
+P00438,Grocery,Rice,Everest,1kg,g,521.58,SUP002,274,Domestic
+P00439,Electronics,Batteries,Eveready,1 pc,pcs,3989.11,SUP080,0,Domestic
+P00440,Footwear,Women's Footwear,Relaxo,UK9,pcs,1603.14,SUP086,0,Domestic
+P00441,Grocery,Pulses,MDH,5L,L,327.76,SUP007,267,Domestic
+P00442,Grocery,Edible Oil,Dmart Premia (Own Brand),5kg,g,518.11,SUP054,326,Domestic
+P00443,Footwear,Women's Footwear,Bata,UK8,pcs,325.78,SUP118,0,Domestic
+P00444,Personal Care,Oral Care,P&G,100ml,L,432.91,SUP094,1059,Domestic
+P00445,Grocery,Pulses,Fortune,1L,L,755.46,SUP060,163,Domestic
+P00446,Electronics,Lighting,Syska,Pack of 2,pcs,4641.96,SUP109,0,Domestic
+P00447,Personal Care,Oral Care,L'Oreal,100ml,L,144.84,SUP022,742,Domestic
+P00448,Toys & Stationery,Pens & Pencils,Hot Wheels,Set of 5,pcs,926.32,SUP036,0,Domestic
+P00449,Grocery,Edible Oil,MDH,10kg,g,245.23,SUP042,193,Imported
+P00450,Personal Care,Haircare,Himalaya,250g,g,475.48,SUP064,434,Domestic
+P00451,Apparel,Women's Wear,Dmart Fashion,S,pcs,1234.57,SUP047,0,Imported
+P00452,Toys & Stationery,Notebooks,Classmate,1 pc,pcs,212.7,SUP033,0,Imported
+P00453,Grocery,Rice,Dmart Premia (Own Brand),1kg,g,570.16,SUP067,345,Domestic
+P00454,Apparel,Innerwear,PUP,S,pcs,184.83,SUP110,0,Domestic
+P00455,Personal Care,Haircare,Patanjali,200ml,L,534.44,SUP119,764,Domestic
+P00456,Footwear,Kids Footwear,Dmart Fashion,UK8,pcs,2496.84,SUP043,0,Domestic
+P00457,Apparel,Innerwear,PUP,M,pcs,1338.72,SUP017,0,Domestic
+P00458,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),Set of 5,pcs,1230.52,SUP048,0,Domestic
+P00459,Home & Kitchen,Cleaning Supplies,Pigeon,1 pc,pcs,806.64,SUP074,0,Domestic
+P00460,FMCG,Packaged Food,Dmart Premia (Own Brand),1kg,g,279.43,SUP070,59,Domestic
+P00461,Footwear,Men's Footwear,Fiesta,Free Size,pcs,1637.74,SUP070,0,Domestic
+P00462,Footwear,Men's Footwear,Bata,UK9,pcs,367.46,SUP029,0,Domestic
+P00463,Home & Kitchen,Cookware,Milton,1 pc,pcs,873.1,SUP097,0,Imported
+P00464,Electronics,Batteries,Philips,Pack of 2,pcs,1864.66,SUP103,0,Domestic
+P00465,Toys & Stationery,School Bags,Hot Wheels,Pack of 10,pcs,668.68,SUP004,0,Domestic
+P00466,Toys & Stationery,Pens & Pencils,Classmate,Set of 5,pcs,116.79,SUP013,0,Domestic
+P00467,Personal Care,Haircare,Dabur,50ml,L,674.56,SUP010,831,Domestic
+P00468,Toys & Stationery,School Bags,Camlin,Set of 5,pcs,313.98,SUP103,0,Domestic
+P00469,Grocery,Atta & Flour,Fortune,5L,L,859.92,SUP054,166,Domestic
+P00470,FMCG,Bakery,Britannia,200g,g,273.04,SUP084,243,Domestic
+P00471,Apparel,Men's Wear,PUP,Free Size,pcs,361.83,SUP004,0,Domestic
+P00472,FMCG,Bakery,Parle,50g,g,151.71,SUP021,7,Domestic
+P00473,Apparel,Kids Wear,MinCloud,XL,pcs,408.32,SUP082,0,Domestic
+P00474,Home & Kitchen,Appliances,Tupperware,500ml,L,2549.05,SUP081,0,Domestic
+P00475,Electronics,Mobile Accessories,Bajaj,1 pc,pcs,765.45,SUP076,0,Domestic
+P00476,Home & Kitchen,Cleaning Supplies,Milton,500ml,L,328.7,SUP073,0,Domestic
+P00477,Grocery,Atta & Flour,MDH,5kg,g,94.02,SUP027,122,Domestic
+P00478,FMCG,Confectionery,Amul,250ml,L,325.78,SUP002,223,Domestic
+P00479,Personal Care,Skincare,Dabur,250g,g,117.47,SUP055,929,Domestic
+P00480,FMCG,Snacks,Dmart Premia (Own Brand),200g,g,202.39,SUP028,173,Domestic
+P00481,Grocery,Spices,Tata,1L,L,500.62,SUP091,289,Domestic
+P00482,Grocery,Rice,MDH,5L,L,189.0,SUP053,197,Imported
+P00483,Apparel,Men's Wear,Divena,L,pcs,826.85,SUP118,0,Imported
+P00484,Grocery,Spices,Dmart Premia (Own Brand),10kg,g,233.94,SUP007,169,Domestic
+P00485,Grocery,Atta & Flour,MDH,500g,g,547.93,SUP087,343,Domestic
+P00486,Footwear,Kids Footwear,Fiesta,Free Size,pcs,1908.3,SUP018,0,Domestic
+P00487,Footwear,Kids Footwear,Fiesta,UK6,pcs,2382.31,SUP044,0,Domestic
+P00488,Toys & Stationery,Art Supplies,Hot Wheels,Pack of 10,pcs,308.32,SUP040,0,Domestic
+P00489,Footwear,Men's Footwear,Ortho+Rest,Free Size,pcs,2058.98,SUP069,0,Domestic
+P00490,Electronics,Mobile Accessories,Eveready,Pack of 4,pcs,917.89,SUP120,0,Domestic
+P00491,FMCG,Confectionery,PepsiCo,1L,L,177.17,SUP029,135,Domestic
+P00492,Grocery,Atta & Flour,India Gate,500g,g,726.83,SUP061,323,Domestic
+P00493,Footwear,Men's Footwear,Dmart Fashion,UK8,pcs,1177.95,SUP099,0,Domestic
+P00494,Footwear,Kids Footwear,Bata,UK7,pcs,1029.25,SUP071,0,Domestic
+P00495,Personal Care,Oral Care,L'Oreal,150g,g,524.98,SUP115,420,Imported
+P00496,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Pack of 10,pcs,369.48,SUP105,0,Imported
+P00497,Apparel,Nightwear,Divena,L,pcs,892.84,SUP020,0,Domestic
+P00498,Apparel,Women's Wear,MinCloud,L,pcs,900.15,SUP049,0,Domestic
+P00499,Personal Care,Skincare,Patanjali,250g,g,220.69,SUP017,804,Domestic
+P00500,Home & Kitchen,Utensils,Tupperware,1L,L,518.44,SUP007,0,Domestic
+P00501,Home & Kitchen,Cookware,Milton,Set of 6,pcs,354.43,SUP089,0,Domestic
+P00502,Personal Care,Haircare,L'Oreal,150g,g,311.71,SUP019,414,Domestic
+P00503,Personal Care,Skincare,Himalaya,50ml,L,685.08,SUP034,369,Domestic
+P00504,Personal Care,Skincare,P&G,200ml,L,648.8,SUP095,875,Domestic
+P00505,Apparel,Nightwear,Divena,L,pcs,1739.07,SUP082,0,Domestic
+P00506,FMCG,Bakery,ITC,200g,g,43.63,SUP011,73,Domestic
+P00507,FMCG,Snacks,Coca-Cola,2L,L,197.99,SUP037,267,Domestic
+P00508,Apparel,Nightwear,PUP,S,pcs,612.8,SUP029,0,Domestic
+P00509,Footwear,Kids Footwear,Relaxo,UK7,pcs,1065.54,SUP048,0,Imported
+P00510,Grocery,Atta & Flour,Aashirvaad,10kg,g,51.11,SUP041,252,Domestic
+P00511,Apparel,Women's Wear,MinCloud,M,pcs,858.93,SUP062,0,Domestic
+P00512,Toys & Stationery,Art Supplies,Hot Wheels,Pack of 10,pcs,1031.86,SUP119,0,Domestic
+P00513,Toys & Stationery,Pens & Pencils,Dmart Premia (Own Brand),Set of 5,pcs,1243.16,SUP016,0,Domestic
+P00514,Home & Kitchen,Storage & Containers,Tupperware,1 pc,pcs,2757.1,SUP118,0,Domestic
+P00515,Footwear,Men's Footwear,Bata,Free Size,pcs,761.78,SUP010,0,Domestic
+P00516,Home & Kitchen,Cookware,Prestige,500ml,L,1383.84,SUP008,0,Domestic
+P00517,Apparel,Nightwear,Adore,Free Size,pcs,1431.87,SUP079,0,Domestic
+P00518,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,4342.74,SUP055,0,Domestic
+P00519,Electronics,Small Appliances,Bajaj,Pack of 2,pcs,3961.06,SUP015,0,Domestic
+P00520,Personal Care,Cosmetics,P&G,50ml,L,373.82,SUP080,635,Domestic
+P00521,FMCG,Bakery,Britannia,500ml,L,93.64,SUP046,163,Domestic
+P00522,Footwear,Kids Footwear,Relaxo,UK7,pcs,476.92,SUP102,0,Domestic
+P00523,FMCG,Bakery,Parle,200g,g,16.88,SUP114,165,Domestic
+P00524,FMCG,Beverages,Nestle,500g,g,246.94,SUP007,15,Domestic
+P00525,Footwear,Men's Footwear,Fiesta,UK6,pcs,1786.66,SUP105,0,Domestic
+P00526,FMCG,Dairy,Amul,1L,L,131.25,SUP046,118,Domestic
+P00527,Footwear,Men's Footwear,Fiesta,Free Size,pcs,600.31,SUP094,0,Domestic
+P00528,FMCG,Bakery,Nestle,50g,g,329.71,SUP085,239,Domestic
+P00529,Apparel,Innerwear,Divena,S,pcs,234.87,SUP047,0,Domestic
+P00530,Home & Kitchen,Cleaning Supplies,Tupperware,Set of 6,pcs,2366.25,SUP024,0,Domestic
+P00531,Grocery,Spices,MDH,5L,L,769.11,SUP070,285,Domestic
+P00532,Grocery,Pulses,India Gate,500g,g,869.65,SUP098,323,Domestic
+P00533,Grocery,Tea & Coffee,Fortune,5L,L,212.76,SUP119,265,Domestic
+P00534,Electronics,Mobile Accessories,Philips,Pack of 2,pcs,264.04,SUP046,0,Domestic
+P00535,Home & Kitchen,Appliances,Pigeon,Set of 3,pcs,795.67,SUP064,0,Domestic
+P00536,FMCG,Confectionery,Haldiram's,200g,g,212.22,SUP013,166,Domestic
+P00537,Grocery,Edible Oil,India Gate,1kg,g,835.5,SUP113,106,Domestic
+P00538,Home & Kitchen,Cleaning Supplies,Prestige,Set of 3,pcs,830.31,SUP095,0,Imported
+P00539,Electronics,Small Appliances,boAt,Pack of 4,pcs,3955.99,SUP086,0,Domestic
+P00540,Grocery,Pulses,Tata,500g,g,779.9,SUP034,317,Domestic
+P00541,Personal Care,Cosmetics,Colgate-Palmolive,200ml,L,461.35,SUP043,454,Domestic
+P00542,Grocery,Edible Oil,Dmart Premia (Own Brand),1kg,g,703.17,SUP003,295,Domestic
+P00543,Toys & Stationery,Toys,Funskool,Pack of 10,pcs,23.64,SUP061,0,Domestic
+P00544,Personal Care,Oral Care,Patanjali,250g,g,467.47,SUP096,1066,Domestic
+P00545,Personal Care,Cosmetics,HUL,100ml,L,161.42,SUP086,799,Domestic
+P00546,Apparel,Kids Wear,Dmart Fashion,XL,pcs,1161.74,SUP061,0,Domestic
+P00547,Personal Care,Cosmetics,Patanjali,100ml,L,452.95,SUP028,443,Domestic
+P00548,Personal Care,Cosmetics,P&G,150g,g,405.88,SUP043,587,Domestic
+P00549,FMCG,Packaged Food,Dmart Premia (Own Brand),1kg,g,218.29,SUP087,57,Domestic
+P00550,FMCG,Snacks,Britannia,100g,g,269.16,SUP026,263,Domestic
+P00551,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,4099.47,SUP010,0,Domestic
+P00552,FMCG,Beverages,Amul,2L,L,123.64,SUP035,37,Domestic
+P00553,Footwear,Kids Footwear,Fiesta,UK9,pcs,2276.24,SUP071,0,Domestic
+P00554,Electronics,Mobile Accessories,Syska,Pack of 2,pcs,259.95,SUP038,0,Domestic
+P00555,Footwear,Men's Footwear,Ortho+Rest,UK9,pcs,1461.4,SUP070,0,Domestic
+P00556,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Pack of 10,pcs,886.96,SUP059,0,Domestic
+P00557,Grocery,Spices,Fortune,500g,g,418.33,SUP041,123,Domestic
+P00558,Electronics,Mobile Accessories,Syska,1 pc,pcs,5859.11,SUP068,0,Domestic
+P00559,FMCG,Snacks,Nestle,500ml,L,80.06,SUP105,168,Domestic
+P00560,Footwear,Kids Footwear,Ortho+Rest,Free Size,pcs,973.41,SUP119,0,Domestic
+P00561,Toys & Stationery,Toys,Funskool,Pack of 10,pcs,1093.35,SUP095,0,Domestic
+P00562,Grocery,Pulses,Fortune,1L,L,887.86,SUP119,93,Domestic
+P00563,Apparel,Innerwear,PUP,XL,pcs,1655.35,SUP100,0,Domestic
+P00564,Apparel,Women's Wear,Adore,M,pcs,790.39,SUP059,0,Domestic
+P00565,Grocery,Pulses,Tata,5L,L,299.13,SUP020,212,Domestic
+P00566,Personal Care,Haircare,Dabur,50ml,L,505.09,SUP057,891,Domestic
+P00567,FMCG,Packaged Food,Amul,500g,g,164.36,SUP034,44,Imported
+P00568,Grocery,Edible Oil,Tata,5kg,g,472.99,SUP012,289,Domestic
+P00569,Grocery,Pulses,Dmart Premia (Own Brand),5L,L,582.53,SUP059,118,Domestic
+P00570,Personal Care,Oral Care,L'Oreal,200ml,L,217.21,SUP008,489,Domestic
+P00571,Toys & Stationery,Pens & Pencils,Camlin,1 pc,pcs,1203.22,SUP016,0,Domestic
+P00572,Electronics,Batteries,Havells,Pack of 2,pcs,3481.33,SUP106,0,Domestic
+P00573,Footwear,Kids Footwear,Ortho+Rest,UK9,pcs,2365.35,SUP120,0,Domestic
+P00574,Toys & Stationery,Art Supplies,Hot Wheels,Set of 5,pcs,701.26,SUP025,0,Domestic
+P00575,Home & Kitchen,Storage & Containers,Pigeon,Set of 3,pcs,1560.75,SUP080,0,Domestic
+P00576,Footwear,Women's Footwear,Fiesta,UK8,pcs,2411.91,SUP059,0,Domestic
+P00577,FMCG,Bakery,Britannia,500g,g,170.93,SUP054,187,Domestic
+P00578,Grocery,Edible Oil,Aashirvaad,5L,L,670.38,SUP096,196,Imported
+P00579,Toys & Stationery,Toys,Funskool,Pack of 10,pcs,100.66,SUP098,0,Domestic
+P00580,Footwear,Kids Footwear,Ortho+Rest,UK7,pcs,2407.23,SUP036,0,Domestic
+P00581,FMCG,Bakery,ITC,250ml,L,131.4,SUP064,246,Domestic
+P00582,Grocery,Spices,Everest,1kg,g,182.26,SUP074,243,Domestic
+P00583,Footwear,Women's Footwear,Bata,Free Size,pcs,503.28,SUP028,0,Imported
+P00584,Grocery,Edible Oil,India Gate,1L,L,636.36,SUP100,335,Domestic
+P00585,Grocery,Pulses,MDH,1L,L,119.95,SUP018,137,Domestic
+P00586,FMCG,Confectionery,Amul,500ml,L,24.12,SUP117,234,Domestic
+P00587,Home & Kitchen,Storage & Containers,Bajaj,1L,L,3492.32,SUP111,0,Imported
+P00588,Electronics,Batteries,Syska,1 pc,pcs,1993.94,SUP035,0,Imported
+P00589,Home & Kitchen,Utensils,Milton,Set of 3,pcs,1741.75,SUP098,0,Domestic
+P00590,Personal Care,Oral Care,Patanjali,150g,g,319.34,SUP016,372,Imported
+P00591,Apparel,Women's Wear,Divena,L,pcs,285.74,SUP038,0,Domestic
+P00592,Personal Care,Skincare,HUL,50ml,L,135.37,SUP037,533,Domestic
+P00593,FMCG,Confectionery,Coca-Cola,100g,g,159.43,SUP106,245,Domestic
+P00594,Home & Kitchen,Cleaning Supplies,Pigeon,1L,L,2550.19,SUP038,0,Domestic
+P00595,Footwear,Women's Footwear,Relaxo,UK9,pcs,305.48,SUP044,0,Domestic
+P00596,Home & Kitchen,Utensils,Pigeon,Set of 3,pcs,705.33,SUP025,0,Domestic
+P00597,Toys & Stationery,Art Supplies,Classmate,1 pc,pcs,547.57,SUP007,0,Domestic
+P00598,FMCG,Dairy,PepsiCo,2L,L,27.19,SUP041,43,Domestic
+P00599,FMCG,Dairy,Amul,1kg,g,318.33,SUP039,114,Domestic
+P00600,Grocery,Atta & Flour,Aashirvaad,10kg,g,356.33,SUP065,230,Domestic
+P00601,Electronics,Batteries,boAt,Pack of 4,pcs,4966.06,SUP018,0,Domestic
+P00602,Grocery,Pulses,India Gate,5L,L,802.03,SUP030,177,Domestic
+P00603,Grocery,Spices,MDH,5kg,g,667.16,SUP072,114,Domestic
+P00604,Footwear,Women's Footwear,Dmart Fashion,UK7,pcs,688.17,SUP074,0,Domestic
+P00605,Personal Care,Skincare,L'Oreal,50ml,L,416.38,SUP042,1086,Domestic
+P00606,Apparel,Women's Wear,Dmart Fashion,Free Size,pcs,368.81,SUP022,0,Domestic
+P00607,Home & Kitchen,Appliances,Prestige,Set of 3,pcs,535.13,SUP111,0,Domestic
+P00608,Toys & Stationery,Art Supplies,Classmate,Pack of 10,pcs,849.64,SUP028,0,Domestic
+P00609,Home & Kitchen,Cleaning Supplies,Bajaj,500ml,L,2600.65,SUP085,0,Domestic
+P00610,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),Set of 3,pcs,1676.75,SUP060,0,Domestic
+P00611,Home & Kitchen,Utensils,Prestige,1 pc,pcs,3197.43,SUP068,0,Domestic
+P00612,FMCG,Packaged Food,ITC,50g,g,33.18,SUP084,14,Domestic
+P00613,Personal Care,Bath & Body,Himalaya,200ml,L,502.48,SUP089,909,Domestic
+P00614,Electronics,Lighting,Syska,1 pc,pcs,425.47,SUP056,0,Domestic
+P00615,Apparel,Nightwear,MinCloud,L,pcs,657.97,SUP041,0,Domestic
+P00616,Footwear,Men's Footwear,Relaxo,Free Size,pcs,606.41,SUP086,0,Domestic
+P00617,Home & Kitchen,Utensils,Cello,Set of 3,pcs,1135.48,SUP001,0,Domestic
+P00618,Grocery,Rice,India Gate,1L,L,71.21,SUP047,321,Domestic
+P00619,Footwear,Kids Footwear,Ortho+Rest,UK9,pcs,2457.97,SUP108,0,Domestic
+P00620,Personal Care,Oral Care,Himalaya,50ml,L,624.54,SUP055,588,Domestic
+P00621,Home & Kitchen,Appliances,Dmart Premia (Own Brand),Set of 6,pcs,4352.19,SUP101,0,Domestic
+P00622,FMCG,Beverages,PepsiCo,500g,g,175.5,SUP057,29,Domestic
+P00623,Apparel,Innerwear,Divena,M,pcs,1437.56,SUP102,0,Domestic
+P00624,Apparel,Women's Wear,Adore,L,pcs,397.54,SUP023,0,Domestic
+P00625,Grocery,Pulses,India Gate,500g,g,885.94,SUP081,265,Domestic
+P00626,Electronics,Mobile Accessories,Eveready,Pack of 4,pcs,1236.17,SUP040,0,Domestic
+P00627,Toys & Stationery,Toys,Dmart Premia (Own Brand),1 pc,pcs,172.14,SUP060,0,Domestic
+P00628,FMCG,Packaged Food,ITC,2L,L,145.59,SUP008,221,Domestic
+P00629,Home & Kitchen,Appliances,Dmart Premia (Own Brand),Set of 6,pcs,2665.21,SUP098,0,Imported
+P00630,Grocery,Rice,MDH,5kg,g,507.72,SUP053,258,Domestic
+P00631,Apparel,Men's Wear,Divena,L,pcs,1449.94,SUP015,0,Domestic
+P00632,FMCG,Snacks,Nestle,1kg,g,233.25,SUP120,146,Domestic
+P00633,FMCG,Confectionery,Nestle,500g,g,208.48,SUP117,109,Domestic
+P00634,Toys & Stationery,School Bags,Hot Wheels,Set of 5,pcs,298.69,SUP042,0,Domestic
+P00635,Grocery,Edible Oil,Aashirvaad,1L,L,198.04,SUP023,154,Domestic
+P00636,Toys & Stationery,Art Supplies,Camlin,1 pc,pcs,726.19,SUP102,0,Domestic
+P00637,Home & Kitchen,Cookware,Pigeon,1L,L,2757.97,SUP005,0,Imported
+P00638,Personal Care,Haircare,L'Oreal,150g,g,683.6,SUP119,928,Domestic
+P00639,Toys & Stationery,Toys,Camlin,Pack of 10,pcs,712.13,SUP101,0,Domestic
+P00640,Footwear,Women's Footwear,Fiesta,Free Size,pcs,806.23,SUP032,0,Domestic
+P00641,Apparel,Nightwear,MinCloud,M,pcs,1407.52,SUP057,0,Domestic
+P00642,Personal Care,Bath & Body,HUL,200ml,L,503.87,SUP099,681,Domestic
+P00643,Electronics,Small Appliances,Eveready,Pack of 4,pcs,507.85,SUP108,0,Domestic
+P00644,Electronics,Mobile Accessories,Philips,1 pc,pcs,5924.01,SUP060,0,Domestic
+P00645,Electronics,Small Appliances,Syska,1 pc,pcs,1503.79,SUP107,0,Domestic
+P00646,Electronics,Lighting,Syska,Pack of 2,pcs,3153.36,SUP031,0,Domestic
+P00647,Home & Kitchen,Appliances,Bajaj,500ml,L,194.93,SUP051,0,Domestic
+P00648,Electronics,Small Appliances,Havells,1 pc,pcs,3627.88,SUP077,0,Domestic
+P00649,Toys & Stationery,Toys,Funskool,Pack of 10,pcs,1213.35,SUP051,0,Domestic
+P00650,Apparel,Innerwear,MinCloud,L,pcs,249.22,SUP053,0,Domestic
+P00651,Apparel,Nightwear,MinCloud,Free Size,pcs,1864.73,SUP077,0,Domestic
+P00652,Apparel,Nightwear,Divena,S,pcs,520.79,SUP026,0,Domestic
+P00653,Home & Kitchen,Appliances,Dmart Premia (Own Brand),500ml,L,1274.01,SUP091,0,Domestic
+P00654,FMCG,Snacks,Parle,500ml,L,130.77,SUP120,141,Imported
+P00655,Home & Kitchen,Appliances,Prestige,1L,L,3290.86,SUP003,0,Domestic
+P00656,Footwear,Men's Footwear,Ortho+Rest,UK8,pcs,806.34,SUP053,0,Domestic
+P00657,Home & Kitchen,Cleaning Supplies,Prestige,500ml,L,1973.2,SUP095,0,Domestic
+P00658,Personal Care,Skincare,L'Oreal,200ml,L,215.92,SUP060,500,Domestic
+P00659,Apparel,Nightwear,Adore,M,pcs,1837.79,SUP114,0,Domestic
+P00660,Home & Kitchen,Cookware,Cello,Set of 6,pcs,4453.08,SUP046,0,Domestic
+P00661,Toys & Stationery,Pens & Pencils,Hot Wheels,1 pc,pcs,1102.87,SUP028,0,Domestic
+P00662,FMCG,Confectionery,Amul,250ml,L,359.16,SUP035,129,Domestic
+P00663,Grocery,Atta & Flour,Tata,10kg,g,488.57,SUP110,304,Domestic
+P00664,Home & Kitchen,Appliances,Pigeon,1L,L,3011.63,SUP117,0,Domestic
+P00665,Apparel,Innerwear,MinCloud,M,pcs,1743.99,SUP114,0,Domestic
+P00666,Grocery,Rice,India Gate,1L,L,235.16,SUP002,160,Domestic
+P00667,Electronics,Lighting,boAt,1 pc,pcs,446.48,SUP048,0,Domestic
+P00668,Home & Kitchen,Cleaning Supplies,Tupperware,1 pc,pcs,4042.93,SUP032,0,Imported
+P00669,FMCG,Dairy,PepsiCo,2L,L,111.96,SUP017,175,Domestic
+P00670,Grocery,Rice,Aashirvaad,1kg,g,583.64,SUP084,363,Domestic
+P00671,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),500ml,L,4061.86,SUP053,0,Domestic
+P00672,Personal Care,Haircare,Colgate-Palmolive,200ml,L,470.84,SUP093,802,Domestic
+P00673,Footwear,Men's Footwear,Dmart Fashion,UK6,pcs,1617.07,SUP062,0,Domestic
+P00674,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,151.87,SUP011,0,Domestic
+P00675,FMCG,Bakery,Nestle,1L,L,73.49,SUP049,27,Domestic
+P00676,Home & Kitchen,Cookware,Pigeon,1 pc,pcs,2974.91,SUP055,0,Domestic
+P00677,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Set of 5,pcs,34.69,SUP090,0,Domestic
+P00678,Personal Care,Cosmetics,P&G,150g,g,674.45,SUP079,1021,Domestic
+P00679,Footwear,Women's Footwear,Ortho+Rest,UK9,pcs,349.35,SUP048,0,Domestic
+P00680,Footwear,Men's Footwear,Ortho+Rest,Free Size,pcs,1785.79,SUP042,0,Domestic
+P00681,FMCG,Bakery,Nestle,6 pcs,pcs,370.88,SUP057,68,Domestic
+P00682,Toys & Stationery,Art Supplies,Hot Wheels,1 pc,pcs,1096.4,SUP008,0,Domestic
+P00683,Home & Kitchen,Cookware,Bajaj,Set of 6,pcs,4168.75,SUP064,0,Domestic
+P00684,Grocery,Tea & Coffee,Aashirvaad,500g,g,699.21,SUP111,249,Domestic
+P00685,Apparel,Men's Wear,PUP,Free Size,pcs,1708.3,SUP114,0,Domestic
+P00686,Apparel,Women's Wear,PUP,XL,pcs,1312.61,SUP024,0,Domestic
+P00687,Electronics,Small Appliances,Eveready,Pack of 4,pcs,1980.85,SUP056,0,Imported
+P00688,Apparel,Kids Wear,Divena,XL,pcs,890.24,SUP051,0,Domestic
+P00689,Apparel,Innerwear,Divena,XL,pcs,928.01,SUP089,0,Domestic
+P00690,FMCG,Beverages,Coca-Cola,2L,L,208.6,SUP021,113,Domestic
+P00691,Home & Kitchen,Storage & Containers,Pigeon,1 pc,pcs,4377.01,SUP074,0,Domestic
+P00692,Toys & Stationery,Pens & Pencils,Hot Wheels,1 pc,pcs,1051.41,SUP119,0,Domestic
+P00693,Home & Kitchen,Storage & Containers,Tupperware,1 pc,pcs,1101.49,SUP055,0,Domestic
+P00694,FMCG,Snacks,Amul,2L,L,295.07,SUP092,116,Domestic
+P00695,Personal Care,Bath & Body,L'Oreal,150g,g,105.08,SUP045,727,Imported
+P00696,Electronics,Batteries,boAt,Pack of 4,pcs,1265.36,SUP023,0,Domestic
+P00697,Toys & Stationery,Toys,Classmate,Set of 5,pcs,497.57,SUP071,0,Domestic
+P00698,Grocery,Spices,India Gate,5L,L,706.54,SUP059,340,Domestic
+P00699,Apparel,Nightwear,Divena,L,pcs,1067.78,SUP084,0,Domestic
+P00700,Grocery,Spices,Aashirvaad,1kg,g,558.32,SUP116,325,Domestic
+P00701,Personal Care,Bath & Body,Patanjali,100ml,L,454.38,SUP081,828,Domestic
+P00702,Toys & Stationery,Toys,Dmart Premia (Own Brand),Pack of 10,pcs,408.8,SUP066,0,Domestic
+P00703,Apparel,Nightwear,PUP,XL,pcs,1956.54,SUP023,0,Domestic
+P00704,Personal Care,Cosmetics,Dabur,150g,g,204.11,SUP062,960,Domestic
+P00705,Footwear,Men's Footwear,Bata,UK7,pcs,529.47,SUP098,0,Domestic
+P00706,Electronics,Mobile Accessories,boAt,Pack of 4,pcs,4567.01,SUP020,0,Domestic
+P00707,Home & Kitchen,Appliances,Prestige,Set of 3,pcs,4466.19,SUP085,0,Domestic
+P00708,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),500ml,L,1397.1,SUP014,0,Domestic
+P00709,Grocery,Edible Oil,Aashirvaad,1L,L,722.18,SUP009,143,Domestic
+P00710,Electronics,Mobile Accessories,boAt,1 pc,pcs,2937.18,SUP069,0,Domestic
+P00711,Apparel,Men's Wear,Divena,L,pcs,1071.83,SUP063,0,Domestic
+P00712,Electronics,Batteries,boAt,Pack of 4,pcs,3205.81,SUP084,0,Domestic
+P00713,Footwear,Kids Footwear,Relaxo,UK8,pcs,2466.02,SUP071,0,Domestic
+P00714,Apparel,Men's Wear,Dmart Fashion,XL,pcs,1585.34,SUP027,0,Domestic
+P00715,Home & Kitchen,Cleaning Supplies,Prestige,500ml,L,3964.6,SUP001,0,Domestic
+P00716,Electronics,Batteries,Philips,1 pc,pcs,4033.41,SUP018,0,Domestic
+P00717,FMCG,Bakery,Haldiram's,6 pcs,pcs,224.62,SUP078,161,Domestic
+P00718,Grocery,Spices,Dmart Premia (Own Brand),5kg,g,462.83,SUP022,314,Domestic
+P00719,Footwear,Men's Footwear,Ortho+Rest,UK8,pcs,1962.08,SUP047,0,Domestic
+P00720,Apparel,Men's Wear,Dmart Fashion,L,pcs,213.22,SUP034,0,Domestic
+P00721,Home & Kitchen,Utensils,Pigeon,1L,L,3267.05,SUP040,0,Domestic
+P00722,Electronics,Small Appliances,boAt,Pack of 2,pcs,258.94,SUP063,0,Domestic
+P00723,Toys & Stationery,School Bags,Funskool,1 pc,pcs,607.41,SUP105,0,Domestic
+P00724,Home & Kitchen,Cookware,Tupperware,500ml,L,4240.71,SUP046,0,Domestic
+P00725,Apparel,Men's Wear,Divena,Free Size,pcs,1578.79,SUP014,0,Domestic
+P00726,Home & Kitchen,Storage & Containers,Tupperware,500ml,L,800.79,SUP051,0,Domestic
+P00727,Grocery,Rice,Dmart Premia (Own Brand),1L,L,185.62,SUP078,321,Domestic
+P00728,Apparel,Nightwear,MinCloud,L,pcs,1869.14,SUP073,0,Domestic
+P00729,Grocery,Tea & Coffee,MDH,5kg,g,746.27,SUP014,149,Domestic
+P00730,Personal Care,Oral Care,Colgate-Palmolive,150g,g,565.49,SUP027,678,Domestic
+P00731,FMCG,Dairy,Amul,100g,g,238.38,SUP010,115,Domestic
+P00732,Personal Care,Bath & Body,Patanjali,50ml,L,527.3,SUP102,712,Domestic
+P00733,Home & Kitchen,Appliances,Pigeon,Set of 6,pcs,1198.38,SUP032,0,Imported
+P00734,Apparel,Nightwear,MinCloud,XL,pcs,402.72,SUP101,0,Domestic
+P00735,Grocery,Atta & Flour,Dmart Premia (Own Brand),1kg,g,485.08,SUP018,314,Imported
+P00736,Grocery,Pulses,India Gate,1L,L,296.59,SUP048,140,Imported
+P00737,Electronics,Small Appliances,Bajaj,Pack of 4,pcs,3586.32,SUP030,0,Domestic
+P00738,Home & Kitchen,Cleaning Supplies,Bajaj,Set of 6,pcs,1379.55,SUP068,0,Domestic
+P00739,Grocery,Edible Oil,Dmart Premia (Own Brand),10kg,g,539.18,SUP005,196,Domestic
+P00740,Footwear,Women's Footwear,Ortho+Rest,UK9,pcs,1910.85,SUP009,0,Domestic
+P00741,FMCG,Beverages,Coca-Cola,500g,g,383.33,SUP013,267,Domestic
+P00742,Apparel,Kids Wear,MinCloud,M,pcs,1349.67,SUP038,0,Domestic
+P00743,Apparel,Nightwear,MinCloud,Free Size,pcs,1555.72,SUP053,0,Domestic
+P00744,Grocery,Rice,Fortune,1L,L,316.79,SUP010,113,Domestic
+P00745,FMCG,Packaged Food,PepsiCo,100g,g,292.61,SUP094,69,Domestic
+P00746,Grocery,Rice,Everest,1L,L,216.56,SUP109,257,Domestic
+P00747,Home & Kitchen,Cookware,Tupperware,500ml,L,2327.81,SUP030,0,Domestic
+P00748,Home & Kitchen,Cookware,Pigeon,Set of 3,pcs,4042.19,SUP087,0,Domestic
+P00749,Grocery,Edible Oil,Aashirvaad,1L,L,617.07,SUP060,127,Domestic
+P00750,Home & Kitchen,Appliances,Tupperware,Set of 3,pcs,1014.64,SUP086,0,Domestic
+P00751,Personal Care,Haircare,HUL,50ml,L,494.13,SUP066,402,Imported
+P00752,Home & Kitchen,Utensils,Milton,500ml,L,1249.58,SUP099,0,Imported
+P00753,Grocery,Edible Oil,Aashirvaad,1kg,g,461.52,SUP041,144,Domestic
+P00754,Toys & Stationery,Toys,Camlin,Pack of 10,pcs,999.1,SUP045,0,Domestic
+P00755,Toys & Stationery,School Bags,Camlin,1 pc,pcs,1105.55,SUP063,0,Domestic
+P00756,Electronics,Small Appliances,Eveready,1 pc,pcs,1488.43,SUP010,0,Domestic
+P00757,Home & Kitchen,Storage & Containers,Pigeon,500ml,L,1415.73,SUP116,0,Domestic
+P00758,Home & Kitchen,Cookware,Dmart Premia (Own Brand),1 pc,pcs,811.37,SUP083,0,Domestic
+P00759,Home & Kitchen,Storage & Containers,Bajaj,1L,L,390.41,SUP030,0,Domestic
+P00760,Apparel,Men's Wear,MinCloud,Free Size,pcs,1867.94,SUP049,0,Domestic
+P00761,Apparel,Women's Wear,MinCloud,Free Size,pcs,1872.65,SUP079,0,Imported
+P00762,Electronics,Mobile Accessories,Syska,Pack of 2,pcs,4825.7,SUP030,0,Domestic
+P00763,Apparel,Nightwear,MinCloud,S,pcs,831.26,SUP087,0,Domestic
+P00764,Apparel,Men's Wear,Adore,L,pcs,1849.71,SUP098,0,Domestic
+P00765,Personal Care,Skincare,Colgate-Palmolive,200ml,L,514.36,SUP105,940,Domestic
+P00766,Home & Kitchen,Utensils,Prestige,1L,L,2816.46,SUP095,0,Domestic
+P00767,Grocery,Tea & Coffee,Aashirvaad,10kg,g,838.44,SUP057,357,Domestic
+P00768,Home & Kitchen,Utensils,Cello,1L,L,4327.34,SUP059,0,Domestic
+P00769,Home & Kitchen,Storage & Containers,Milton,1 pc,pcs,4228.45,SUP047,0,Domestic
+P00770,Apparel,Innerwear,Dmart Fashion,Free Size,pcs,1944.23,SUP074,0,Imported
+P00771,Apparel,Men's Wear,Divena,M,pcs,552.63,SUP119,0,Domestic
+P00772,Toys & Stationery,School Bags,Camlin,Pack of 10,pcs,701.3,SUP062,0,Domestic
+P00773,Apparel,Kids Wear,PUP,Free Size,pcs,897.56,SUP073,0,Domestic
+P00774,Personal Care,Cosmetics,L'Oreal,250g,g,295.06,SUP073,677,Domestic
+P00775,Footwear,Women's Footwear,Dmart Fashion,UK7,pcs,1421.39,SUP009,0,Domestic
+P00776,Personal Care,Cosmetics,Colgate-Palmolive,100ml,L,119.19,SUP108,475,Domestic
+P00777,Grocery,Rice,Aashirvaad,5kg,g,256.13,SUP066,364,Domestic
+P00778,Apparel,Innerwear,MinCloud,L,pcs,483.5,SUP068,0,Domestic
+P00779,FMCG,Packaged Food,Haldiram's,500g,g,307.9,SUP066,2,Domestic
+P00780,Grocery,Spices,MDH,500g,g,794.97,SUP117,150,Domestic
+P00781,Personal Care,Skincare,Dabur,250g,g,462.06,SUP041,935,Domestic
+P00782,Apparel,Kids Wear,Divena,Free Size,pcs,1388.71,SUP086,0,Domestic
+P00783,Toys & Stationery,Notebooks,Funskool,Pack of 10,pcs,530.12,SUP063,0,Domestic
+P00784,Electronics,Lighting,Syska,Pack of 2,pcs,5609.94,SUP097,0,Imported
+P00785,Electronics,Lighting,Havells,Pack of 2,pcs,170.51,SUP086,0,Domestic
+P00786,Personal Care,Oral Care,HUL,250g,g,279.99,SUP032,677,Imported
+P00787,Electronics,Lighting,Bajaj,Pack of 4,pcs,5469.79,SUP053,0,Domestic
+P00788,Home & Kitchen,Cookware,Bajaj,Set of 6,pcs,4344.47,SUP102,0,Domestic
+P00789,FMCG,Packaged Food,Britannia,200g,g,248.27,SUP097,152,Domestic
+P00790,Footwear,Women's Footwear,Ortho+Rest,UK7,pcs,781.94,SUP008,0,Domestic
+P00791,Personal Care,Haircare,Patanjali,100ml,L,239.17,SUP020,670,Domestic
+P00792,Grocery,Atta & Flour,Fortune,10kg,g,100.98,SUP032,347,Domestic
+P00793,Apparel,Men's Wear,Adore,L,pcs,559.41,SUP034,0,Domestic
+P00794,Personal Care,Cosmetics,Patanjali,150g,g,307.03,SUP047,808,Imported
+P00795,Home & Kitchen,Cookware,Prestige,1L,L,1538.84,SUP051,0,Imported
+P00796,Personal Care,Cosmetics,HUL,250g,g,178.81,SUP024,744,Domestic
+P00797,Footwear,Kids Footwear,Relaxo,UK9,pcs,1828.85,SUP024,0,Domestic
+P00798,Toys & Stationery,School Bags,Classmate,Pack of 10,pcs,771.04,SUP054,0,Domestic
+P00799,Apparel,Innerwear,Divena,Free Size,pcs,1403.51,SUP029,0,Domestic
+P00800,Home & Kitchen,Cookware,Dmart Premia (Own Brand),1L,L,327.29,SUP064,0,Domestic
+P00801,Grocery,Tea & Coffee,India Gate,1L,L,112.15,SUP108,326,Domestic
+P00802,Apparel,Nightwear,PUP,M,pcs,1628.61,SUP021,0,Domestic
+P00803,Electronics,Mobile Accessories,Bajaj,Pack of 2,pcs,2343.17,SUP081,0,Domestic
+P00804,FMCG,Packaged Food,Nestle,200g,g,204.3,SUP115,177,Domestic
+P00805,Personal Care,Skincare,Dabur,250g,g,633.02,SUP039,853,Domestic
+P00806,Footwear,Kids Footwear,Ortho+Rest,UK6,pcs,923.98,SUP115,0,Domestic
+P00807,FMCG,Beverages,Parle,50g,g,318.12,SUP029,254,Domestic
+P00808,Apparel,Men's Wear,Adore,Free Size,pcs,1593.91,SUP084,0,Imported
+P00809,Electronics,Lighting,boAt,Pack of 2,pcs,1063.72,SUP058,0,Domestic
+P00810,FMCG,Beverages,Nestle,1L,L,20.01,SUP018,196,Domestic
+P00811,Apparel,Men's Wear,MinCloud,S,pcs,351.05,SUP078,0,Domestic
+P00812,Grocery,Pulses,Fortune,5kg,g,683.29,SUP002,153,Domestic
+P00813,FMCG,Confectionery,Dmart Premia (Own Brand),200g,g,82.08,SUP092,237,Domestic
+P00814,Grocery,Rice,Everest,1kg,g,840.36,SUP101,158,Domestic
+P00815,Apparel,Nightwear,Dmart Fashion,S,pcs,1495.36,SUP107,0,Domestic
+P00816,Footwear,Men's Footwear,Fiesta,UK9,pcs,2049.56,SUP108,0,Imported
+P00817,Apparel,Women's Wear,Divena,XL,pcs,1446.38,SUP052,0,Imported
+P00818,Electronics,Lighting,Havells,1 pc,pcs,153.57,SUP028,0,Domestic
+P00819,Electronics,Lighting,Bajaj,1 pc,pcs,5642.28,SUP048,0,Domestic
+P00820,Apparel,Women's Wear,Divena,M,pcs,904.06,SUP094,0,Domestic
+P00821,Footwear,Men's Footwear,Bata,UK7,pcs,1603.82,SUP078,0,Domestic
+P00822,Personal Care,Skincare,Dabur,50ml,L,91.12,SUP089,1012,Domestic
+P00823,Electronics,Lighting,boAt,1 pc,pcs,752.95,SUP001,0,Domestic
+P00824,Apparel,Nightwear,MinCloud,XL,pcs,386.84,SUP098,0,Domestic
+P00825,Electronics,Batteries,Eveready,1 pc,pcs,523.31,SUP113,0,Domestic
+P00826,FMCG,Dairy,PepsiCo,6 pcs,pcs,214.11,SUP063,103,Domestic
+P00827,Personal Care,Haircare,Himalaya,250g,g,349.61,SUP041,420,Domestic
+P00828,Grocery,Atta & Flour,Tata,5L,L,616.47,SUP030,287,Domestic
+P00829,FMCG,Beverages,Dmart Premia (Own Brand),250ml,L,332.04,SUP023,16,Domestic
+P00830,Apparel,Nightwear,Divena,S,pcs,1517.74,SUP091,0,Domestic
+P00831,FMCG,Packaged Food,PepsiCo,50g,g,205.21,SUP078,96,Domestic
+P00832,Grocery,Pulses,Dmart Premia (Own Brand),1kg,g,456.87,SUP031,233,Domestic
+P00833,Apparel,Kids Wear,Dmart Fashion,XL,pcs,593.17,SUP082,0,Domestic
+P00834,Home & Kitchen,Appliances,Prestige,500ml,L,1655.66,SUP028,0,Domestic
+P00835,FMCG,Beverages,Coca-Cola,250ml,L,352.58,SUP066,127,Domestic
+P00836,Footwear,Men's Footwear,Fiesta,UK6,pcs,1489.8,SUP027,0,Domestic
+P00837,FMCG,Dairy,Parle,500g,g,134.71,SUP006,87,Imported
+P00838,Grocery,Pulses,Aashirvaad,5L,L,146.96,SUP028,187,Domestic
+P00839,Home & Kitchen,Utensils,Cello,500ml,L,2758.54,SUP012,0,Domestic
+P00840,Footwear,Men's Footwear,Relaxo,Free Size,pcs,853.84,SUP095,0,Imported
+P00841,Toys & Stationery,School Bags,Funskool,1 pc,pcs,1086.13,SUP028,0,Domestic
+P00842,Electronics,Small Appliances,Syska,Pack of 2,pcs,2960.94,SUP120,0,Domestic
+P00843,Footwear,Kids Footwear,Dmart Fashion,Free Size,pcs,1676.0,SUP089,0,Domestic
+P00844,Home & Kitchen,Utensils,Bajaj,1L,L,3834.8,SUP031,0,Domestic
+P00845,Apparel,Kids Wear,Adore,Free Size,pcs,169.01,SUP106,0,Domestic
+P00846,Toys & Stationery,Pens & Pencils,Classmate,Set of 5,pcs,732.97,SUP106,0,Domestic
+P00847,FMCG,Confectionery,Amul,100g,g,15.48,SUP098,95,Domestic
+P00848,Grocery,Edible Oil,Tata,5kg,g,475.29,SUP079,182,Domestic
+P00849,Grocery,Rice,Tata,500g,g,68.48,SUP109,280,Domestic
+P00850,Toys & Stationery,School Bags,Hot Wheels,Pack of 10,pcs,542.44,SUP115,0,Domestic
+P00851,Grocery,Atta & Flour,India Gate,500g,g,242.72,SUP058,235,Domestic
+P00852,Toys & Stationery,Notebooks,Funskool,Set of 5,pcs,243.57,SUP031,0,Domestic
+P00853,Grocery,Rice,MDH,1L,L,670.41,SUP069,232,Domestic
+P00854,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),1 pc,pcs,1940.28,SUP007,0,Domestic
+P00855,Home & Kitchen,Cookware,Prestige,Set of 6,pcs,792.22,SUP058,0,Domestic
+P00856,Toys & Stationery,Notebooks,Camlin,Pack of 10,pcs,1073.78,SUP013,0,Domestic
+P00857,Apparel,Nightwear,Dmart Fashion,M,pcs,1309.93,SUP059,0,Imported
+P00858,Grocery,Rice,Everest,5kg,g,737.26,SUP089,263,Domestic
+P00859,Home & Kitchen,Utensils,Prestige,Set of 3,pcs,374.91,SUP116,0,Domestic
+P00860,FMCG,Confectionery,Parle,500g,g,242.84,SUP035,17,Domestic
+P00861,Home & Kitchen,Cookware,Bajaj,Set of 6,pcs,2446.9,SUP095,0,Domestic
+P00862,Personal Care,Haircare,HUL,200ml,L,138.59,SUP092,880,Domestic
+P00863,Personal Care,Oral Care,Dabur,200ml,L,313.86,SUP063,877,Domestic
+P00864,Footwear,Kids Footwear,Dmart Fashion,UK7,pcs,540.85,SUP086,0,Imported
+P00865,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),Set of 5,pcs,222.98,SUP113,0,Domestic
+P00866,Apparel,Nightwear,Divena,L,pcs,837.99,SUP082,0,Domestic
+P00867,FMCG,Beverages,Britannia,100g,g,39.5,SUP099,16,Domestic
+P00868,FMCG,Confectionery,Amul,1L,L,309.82,SUP062,171,Domestic
+P00869,Home & Kitchen,Utensils,Dmart Premia (Own Brand),500ml,L,563.7,SUP112,0,Domestic
+P00870,FMCG,Packaged Food,Britannia,500g,g,335.57,SUP031,188,Domestic
+P00871,FMCG,Packaged Food,PepsiCo,500ml,L,23.68,SUP019,37,Domestic
+P00872,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,2053.32,SUP065,0,Domestic
+P00873,Personal Care,Bath & Body,Patanjali,250g,g,241.84,SUP033,407,Domestic
+P00874,Footwear,Men's Footwear,Bata,UK7,pcs,258.0,SUP103,0,Domestic
+P00875,Personal Care,Oral Care,Himalaya,150g,g,590.29,SUP094,761,Imported
+P00876,Personal Care,Haircare,HUL,200ml,L,39.38,SUP070,912,Domestic
+P00877,FMCG,Snacks,Dmart Premia (Own Brand),500ml,L,202.17,SUP105,3,Domestic
+P00878,Footwear,Women's Footwear,Fiesta,UK9,pcs,1888.0,SUP105,0,Domestic
+P00879,Electronics,Mobile Accessories,Havells,Pack of 4,pcs,4553.51,SUP083,0,Domestic
+P00880,Personal Care,Cosmetics,HUL,50ml,L,61.39,SUP091,424,Domestic
+P00881,Grocery,Tea & Coffee,Everest,1L,L,765.65,SUP057,309,Domestic
+P00882,Apparel,Women's Wear,Dmart Fashion,Free Size,pcs,667.05,SUP084,0,Domestic
+P00883,FMCG,Confectionery,Dmart Premia (Own Brand),2L,L,100.95,SUP089,4,Domestic
+P00884,Footwear,Men's Footwear,Relaxo,UK6,pcs,590.57,SUP102,0,Domestic
+P00885,Personal Care,Cosmetics,HUL,150g,g,385.03,SUP093,1086,Domestic
+P00886,Apparel,Innerwear,Divena,Free Size,pcs,1282.96,SUP057,0,Domestic
+P00887,Grocery,Rice,Tata,5kg,g,33.17,SUP104,336,Domestic
+P00888,Electronics,Mobile Accessories,Havells,Pack of 4,pcs,3526.14,SUP116,0,Domestic
+P00889,Personal Care,Bath & Body,P&G,150g,g,315.67,SUP067,1084,Domestic
+P00890,Apparel,Men's Wear,Divena,XL,pcs,1741.7,SUP007,0,Domestic
+P00891,Apparel,Nightwear,Dmart Fashion,XL,pcs,289.27,SUP110,0,Domestic
+P00892,Electronics,Lighting,Syska,Pack of 2,pcs,344.64,SUP070,0,Domestic
+P00893,Electronics,Lighting,Bajaj,1 pc,pcs,1487.97,SUP043,0,Domestic
+P00894,Grocery,Edible Oil,Everest,10kg,g,762.66,SUP041,312,Domestic
+P00895,Home & Kitchen,Appliances,Tupperware,500ml,L,3161.31,SUP044,0,Domestic
+P00896,Footwear,Women's Footwear,Fiesta,UK7,pcs,1700.31,SUP005,0,Domestic
+P00897,Electronics,Mobile Accessories,Syska,Pack of 4,pcs,4234.99,SUP014,0,Domestic
+P00898,Footwear,Men's Footwear,Fiesta,Free Size,pcs,1854.19,SUP036,0,Domestic
+P00899,Electronics,Batteries,Syska,1 pc,pcs,1176.21,SUP053,0,Domestic
+P00900,Footwear,Women's Footwear,Relaxo,UK8,pcs,1885.62,SUP090,0,Domestic
+P00901,Apparel,Women's Wear,PUP,S,pcs,745.67,SUP120,0,Domestic
+P00902,Apparel,Nightwear,PUP,S,pcs,767.19,SUP005,0,Domestic
+P00903,Footwear,Women's Footwear,Bata,UK7,pcs,1955.2,SUP060,0,Domestic
+P00904,Electronics,Mobile Accessories,boAt,Pack of 4,pcs,5833.64,SUP070,0,Domestic
+P00905,Grocery,Tea & Coffee,Aashirvaad,1L,L,397.8,SUP039,147,Domestic
+P00906,Toys & Stationery,Art Supplies,Hot Wheels,Set of 5,pcs,362.94,SUP051,0,Domestic
+P00907,Personal Care,Oral Care,L'Oreal,200ml,L,85.31,SUP102,482,Domestic
+P00908,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Pack of 10,pcs,255.18,SUP041,0,Domestic
+P00909,Footwear,Men's Footwear,Fiesta,UK9,pcs,207.61,SUP012,0,Domestic
+P00910,Personal Care,Oral Care,Colgate-Palmolive,100ml,L,549.85,SUP103,423,Domestic
+P00911,Toys & Stationery,Notebooks,Camlin,1 pc,pcs,379.55,SUP108,0,Domestic
+P00912,Electronics,Lighting,Philips,Pack of 2,pcs,4058.68,SUP060,0,Domestic
+P00913,Grocery,Rice,India Gate,1kg,g,881.25,SUP039,132,Domestic
+P00914,Apparel,Innerwear,Dmart Fashion,L,pcs,571.63,SUP004,0,Domestic
+P00915,Home & Kitchen,Appliances,Bajaj,1 pc,pcs,3222.98,SUP093,0,Domestic
+P00916,Personal Care,Cosmetics,P&G,200ml,L,76.65,SUP049,436,Domestic
+P00917,Grocery,Edible Oil,Fortune,1kg,g,537.16,SUP042,199,Domestic
+P00918,Home & Kitchen,Utensils,Pigeon,Set of 6,pcs,2420.07,SUP026,0,Domestic
+P00919,Apparel,Innerwear,Adore,M,pcs,768.05,SUP072,0,Domestic
+P00920,Footwear,Men's Footwear,Fiesta,Free Size,pcs,1974.7,SUP007,0,Domestic
+P00921,Personal Care,Cosmetics,P&G,50ml,L,467.4,SUP077,891,Domestic
+P00922,Toys & Stationery,Notebooks,Funskool,Set of 5,pcs,579.1,SUP081,0,Domestic
+P00923,FMCG,Dairy,Nestle,1L,L,12.05,SUP026,138,Domestic
+P00924,Grocery,Tea & Coffee,Fortune,10kg,g,346.99,SUP049,347,Domestic
+P00925,FMCG,Confectionery,PepsiCo,6 pcs,pcs,339.22,SUP101,93,Domestic
+P00926,Personal Care,Haircare,P&G,150g,g,467.89,SUP025,857,Domestic
+P00927,Grocery,Rice,MDH,1kg,g,296.91,SUP102,233,Domestic
+P00928,Toys & Stationery,Pens & Pencils,Funskool,Pack of 10,pcs,1057.86,SUP077,0,Domestic
+P00929,Electronics,Batteries,Havells,Pack of 4,pcs,752.54,SUP061,0,Domestic
+P00930,FMCG,Bakery,Haldiram's,50g,g,190.42,SUP079,211,Domestic
+P00931,Toys & Stationery,Toys,Dmart Premia (Own Brand),1 pc,pcs,462.9,SUP103,0,Domestic
+P00932,Electronics,Batteries,Havells,Pack of 2,pcs,3484.47,SUP087,0,Imported
+P00933,FMCG,Snacks,Britannia,250ml,L,241.09,SUP037,67,Domestic
+P00934,Electronics,Small Appliances,Eveready,Pack of 2,pcs,4169.22,SUP015,0,Domestic
+P00935,Grocery,Pulses,Dmart Premia (Own Brand),1L,L,869.0,SUP027,193,Domestic
+P00936,Electronics,Batteries,boAt,1 pc,pcs,4861.6,SUP099,0,Domestic
+P00937,Grocery,Spices,Aashirvaad,10kg,g,399.3,SUP120,317,Domestic
+P00938,Electronics,Mobile Accessories,Havells,Pack of 4,pcs,1768.6,SUP072,0,Domestic
+P00939,Personal Care,Bath & Body,L'Oreal,50ml,L,102.25,SUP118,992,Domestic
+P00940,Apparel,Kids Wear,MinCloud,XL,pcs,1924.01,SUP081,0,Domestic
+P00941,Personal Care,Haircare,Colgate-Palmolive,150g,g,314.86,SUP057,1038,Domestic
+P00942,Toys & Stationery,Toys,Classmate,Pack of 10,pcs,98.03,SUP002,0,Domestic
+P00943,Electronics,Lighting,Bajaj,Pack of 2,pcs,2292.58,SUP027,0,Domestic
+P00944,Home & Kitchen,Storage & Containers,Dmart Premia (Own Brand),500ml,L,1095.38,SUP107,0,Domestic
+P00945,FMCG,Packaged Food,Nestle,1L,L,379.96,SUP004,99,Domestic
+P00946,Apparel,Nightwear,Divena,S,pcs,1330.66,SUP084,0,Domestic
+P00947,FMCG,Bakery,Haldiram's,500g,g,311.42,SUP023,42,Domestic
+P00948,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),Set of 5,pcs,236.8,SUP118,0,Domestic
+P00949,Footwear,Women's Footwear,Bata,UK6,pcs,582.08,SUP041,0,Domestic
+P00950,Home & Kitchen,Appliances,Dmart Premia (Own Brand),Set of 6,pcs,3191.64,SUP067,0,Domestic
+P00951,Footwear,Men's Footwear,Relaxo,UK9,pcs,1391.37,SUP074,0,Domestic
+P00952,Electronics,Batteries,Syska,Pack of 4,pcs,2824.58,SUP013,0,Imported
+P00953,Toys & Stationery,Toys,Funskool,Pack of 10,pcs,839.85,SUP087,0,Domestic
+P00954,Toys & Stationery,Toys,Dmart Premia (Own Brand),Set of 5,pcs,1024.71,SUP029,0,Domestic
+P00955,Electronics,Mobile Accessories,Syska,1 pc,pcs,1749.16,SUP084,0,Domestic
+P00956,Footwear,Men's Footwear,Dmart Fashion,UK7,pcs,405.66,SUP114,0,Domestic
+P00957,Grocery,Tea & Coffee,MDH,500g,g,262.24,SUP107,211,Domestic
+P00958,Apparel,Nightwear,PUP,S,pcs,178.21,SUP077,0,Domestic
+P00959,Personal Care,Cosmetics,Patanjali,200ml,L,385.97,SUP055,663,Domestic
+P00960,Electronics,Batteries,Philips,Pack of 2,pcs,1096.35,SUP103,0,Domestic
+P00961,Grocery,Rice,Fortune,1kg,g,806.4,SUP057,191,Domestic
+P00962,Personal Care,Bath & Body,Colgate-Palmolive,150g,g,441.53,SUP055,763,Domestic
+P00963,Toys & Stationery,School Bags,Dmart Premia (Own Brand),1 pc,pcs,1048.03,SUP101,0,Domestic
+P00964,Footwear,Women's Footwear,Dmart Fashion,UK7,pcs,2003.02,SUP104,0,Domestic
+P00965,Grocery,Tea & Coffee,Aashirvaad,1kg,g,629.03,SUP075,257,Domestic
+P00966,Apparel,Kids Wear,Adore,Free Size,pcs,220.95,SUP096,0,Domestic
+P00967,Footwear,Women's Footwear,Bata,UK8,pcs,2110.51,SUP070,0,Domestic
+P00968,Toys & Stationery,Art Supplies,Camlin,Pack of 10,pcs,1270.22,SUP048,0,Domestic
+P00969,Grocery,Spices,Aashirvaad,500g,g,453.27,SUP019,125,Domestic
+P00970,Apparel,Innerwear,PUP,S,pcs,451.98,SUP085,0,Domestic
+P00971,Personal Care,Cosmetics,P&G,250g,g,93.31,SUP041,1059,Domestic
+P00972,Home & Kitchen,Storage & Containers,Milton,1L,L,3244.62,SUP034,0,Domestic
+P00973,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,792.05,SUP022,0,Domestic
+P00974,Electronics,Mobile Accessories,boAt,1 pc,pcs,5912.26,SUP033,0,Domestic
+P00975,Apparel,Innerwear,MinCloud,XL,pcs,1968.05,SUP079,0,Domestic
+P00976,Footwear,Kids Footwear,Relaxo,Free Size,pcs,1927.37,SUP088,0,Domestic
+P00977,Toys & Stationery,Notebooks,Hot Wheels,Set of 5,pcs,974.17,SUP010,0,Domestic
+P00978,Electronics,Mobile Accessories,Eveready,1 pc,pcs,881.69,SUP072,0,Domestic
+P00979,Electronics,Batteries,Philips,Pack of 2,pcs,5377.98,SUP059,0,Imported
+P00980,Personal Care,Bath & Body,L'Oreal,100ml,L,332.11,SUP050,759,Domestic
+P00981,Grocery,Rice,Fortune,5kg,g,153.59,SUP071,263,Domestic
+P00982,Apparel,Kids Wear,Divena,XL,pcs,968.86,SUP103,0,Domestic
+P00983,Home & Kitchen,Utensils,Milton,1L,L,3003.85,SUP012,0,Domestic
+P00984,Grocery,Rice,Everest,5kg,g,455.41,SUP003,147,Domestic
+P00985,Electronics,Batteries,Havells,Pack of 2,pcs,698.87,SUP031,0,Domestic
+P00986,Toys & Stationery,Notebooks,Dmart Premia (Own Brand),Set of 5,pcs,438.26,SUP087,0,Domestic
+P00987,Grocery,Edible Oil,Dmart Premia (Own Brand),500g,g,120.35,SUP022,178,Domestic
+P00988,FMCG,Confectionery,ITC,1L,L,355.56,SUP026,69,Domestic
+P00989,Grocery,Edible Oil,India Gate,500g,g,185.49,SUP035,143,Domestic
+P00990,FMCG,Bakery,Parle,500ml,L,270.05,SUP082,254,Imported
+P00991,Personal Care,Oral Care,L'Oreal,200ml,L,122.33,SUP067,629,Domestic
+P00992,FMCG,Confectionery,Nestle,500g,g,250.7,SUP074,222,Domestic
+P00993,Personal Care,Cosmetics,HUL,100ml,L,142.97,SUP064,1088,Domestic
+P00994,Grocery,Pulses,Dmart Premia (Own Brand),500g,g,427.88,SUP031,300,Imported
+P00995,FMCG,Packaged Food,Dmart Premia (Own Brand),250ml,L,162.54,SUP039,18,Domestic
+P00996,Toys & Stationery,Toys,Dmart Premia (Own Brand),Set of 5,pcs,290.8,SUP071,0,Domestic
+P00997,Personal Care,Oral Care,Himalaya,100ml,L,39.39,SUP079,851,Domestic
+P00998,Footwear,Kids Footwear,Fiesta,UK8,pcs,991.83,SUP072,0,Domestic
+P00999,Grocery,Pulses,MDH,5kg,g,163.51,SUP098,301,Domestic
+P01000,Electronics,Mobile Accessories,Syska,1 pc,pcs,4347.33,SUP064,0,Domestic
+P01001,Personal Care,Skincare,Himalaya,250g,g,647.91,SUP007,596,Domestic
+P01002,FMCG,Packaged Food,Nestle,500ml,L,159.18,SUP065,166,Domestic
+P01003,Home & Kitchen,Cleaning Supplies,Pigeon,1 pc,pcs,492.61,SUP113,0,Domestic
+P01004,Toys & Stationery,Art Supplies,Funskool,1 pc,pcs,1181.32,SUP043,0,Domestic
+P01005,Home & Kitchen,Cleaning Supplies,Prestige,1 pc,pcs,3344.3,SUP046,0,Domestic
+P01006,Electronics,Small Appliances,Havells,1 pc,pcs,1050.63,SUP053,0,Imported
+P01007,FMCG,Snacks,Dmart Premia (Own Brand),500ml,L,285.05,SUP019,194,Domestic
+P01008,Electronics,Small Appliances,Bajaj,Pack of 2,pcs,5968.88,SUP033,0,Domestic
+P01009,Toys & Stationery,Toys,Classmate,Set of 5,pcs,1172.63,SUP048,0,Domestic
+P01010,Grocery,Rice,Aashirvaad,1L,L,800.96,SUP093,136,Domestic
+P01011,Footwear,Men's Footwear,Ortho+Rest,UK6,pcs,1612.63,SUP096,0,Domestic
+P01012,Grocery,Edible Oil,Tata,1kg,g,461.1,SUP075,197,Domestic
+P01013,Home & Kitchen,Appliances,Prestige,1 pc,pcs,2779.89,SUP104,0,Domestic
+P01014,Toys & Stationery,Pens & Pencils,Dmart Premia (Own Brand),Set of 5,pcs,784.2,SUP118,0,Domestic
+P01015,Footwear,Men's Footwear,Relaxo,UK6,pcs,900.32,SUP013,0,Domestic
+P01016,Electronics,Mobile Accessories,Havells,Pack of 2,pcs,4418.25,SUP116,0,Domestic
+P01017,Footwear,Kids Footwear,Fiesta,UK6,pcs,1853.36,SUP046,0,Domestic
+P01018,Apparel,Women's Wear,MinCloud,M,pcs,1473.14,SUP085,0,Domestic
+P01019,Toys & Stationery,Pens & Pencils,Dmart Premia (Own Brand),1 pc,pcs,396.33,SUP099,0,Domestic
+P01020,Electronics,Small Appliances,Syska,Pack of 4,pcs,3119.16,SUP059,0,Domestic
+P01021,Personal Care,Skincare,L'Oreal,100ml,L,375.81,SUP051,1000,Domestic
+P01022,Electronics,Small Appliances,Eveready,Pack of 4,pcs,2336.35,SUP092,0,Domestic
+P01023,Toys & Stationery,School Bags,Classmate,1 pc,pcs,510.31,SUP013,0,Domestic
+P01024,Home & Kitchen,Appliances,Tupperware,1L,L,2483.85,SUP024,0,Domestic
+P01025,Home & Kitchen,Utensils,Milton,1L,L,2406.92,SUP077,0,Domestic
+P01026,FMCG,Beverages,PepsiCo,50g,g,56.79,SUP004,194,Imported
+P01027,FMCG,Snacks,Haldiram's,6 pcs,pcs,290.51,SUP059,48,Domestic
+P01028,FMCG,Snacks,ITC,2L,L,117.84,SUP021,269,Domestic
+P01029,Apparel,Innerwear,PUP,S,pcs,1175.65,SUP035,0,Imported
+P01030,Toys & Stationery,Notebooks,Funskool,Set of 5,pcs,1155.68,SUP066,0,Domestic
+P01031,Home & Kitchen,Storage & Containers,Cello,1 pc,pcs,4193.63,SUP098,0,Domestic
+P01032,Apparel,Innerwear,PUP,M,pcs,172.09,SUP017,0,Domestic
+P01033,Grocery,Rice,Aashirvaad,5kg,g,148.62,SUP089,269,Domestic
+P01034,Home & Kitchen,Cleaning Supplies,Milton,Set of 3,pcs,742.11,SUP018,0,Domestic
+P01035,Apparel,Kids Wear,MinCloud,XL,pcs,1726.64,SUP042,0,Domestic
+P01036,Footwear,Women's Footwear,Dmart Fashion,UK7,pcs,1655.72,SUP063,0,Domestic
+P01037,FMCG,Beverages,ITC,500g,g,67.84,SUP096,194,Domestic
+P01038,FMCG,Packaged Food,Dmart Premia (Own Brand),2L,L,204.0,SUP009,45,Domestic
+P01039,Home & Kitchen,Storage & Containers,Cello,1L,L,3141.26,SUP041,0,Domestic
+P01040,Apparel,Men's Wear,MinCloud,S,pcs,271.76,SUP087,0,Domestic
+P01041,Home & Kitchen,Cookware,Tupperware,Set of 6,pcs,3953.4,SUP018,0,Domestic
+P01042,Apparel,Innerwear,PUP,XL,pcs,287.02,SUP021,0,Domestic
+P01043,Electronics,Batteries,Philips,Pack of 4,pcs,1512.58,SUP014,0,Imported
+P01044,Electronics,Mobile Accessories,Eveready,Pack of 2,pcs,3101.88,SUP027,0,Domestic
+P01045,Personal Care,Cosmetics,P&G,150g,g,377.89,SUP084,751,Domestic
+P01046,Footwear,Women's Footwear,Bata,UK6,pcs,488.91,SUP114,0,Domestic
+P01047,FMCG,Beverages,Britannia,1kg,g,284.56,SUP095,245,Domestic
+P01048,Personal Care,Bath & Body,L'Oreal,200ml,L,341.44,SUP048,669,Domestic
+P01049,Grocery,Pulses,Everest,5L,L,471.31,SUP039,118,Domestic
+P01050,FMCG,Snacks,Parle,1L,L,78.7,SUP019,235,Domestic
+P01051,Grocery,Pulses,Everest,5kg,g,850.96,SUP053,212,Domestic
+P01052,Apparel,Nightwear,MinCloud,Free Size,pcs,1907.72,SUP005,0,Imported
+P01053,Apparel,Women's Wear,MinCloud,XL,pcs,522.54,SUP018,0,Domestic
+P01054,Electronics,Small Appliances,boAt,Pack of 4,pcs,4175.36,SUP041,0,Domestic
+P01055,Apparel,Women's Wear,PUP,XL,pcs,1361.53,SUP060,0,Domestic
+P01056,Toys & Stationery,School Bags,Classmate,Set of 5,pcs,197.01,SUP025,0,Domestic
+P01057,Apparel,Kids Wear,PUP,Free Size,pcs,979.14,SUP017,0,Domestic
+P01058,Home & Kitchen,Utensils,Cello,1 pc,pcs,2984.06,SUP101,0,Domestic
+P01059,Personal Care,Cosmetics,Patanjali,150g,g,152.09,SUP058,372,Domestic
+P01060,Electronics,Mobile Accessories,Havells,Pack of 4,pcs,3221.21,SUP075,0,Domestic
+P01061,Electronics,Lighting,Philips,Pack of 2,pcs,666.11,SUP050,0,Domestic
+P01062,Electronics,Mobile Accessories,boAt,1 pc,pcs,3546.55,SUP061,0,Domestic
+P01063,Grocery,Spices,India Gate,10kg,g,586.51,SUP019,163,Domestic
+P01064,Personal Care,Skincare,HUL,100ml,L,87.71,SUP086,722,Domestic
+P01065,Footwear,Men's Footwear,Relaxo,Free Size,pcs,2374.47,SUP054,0,Domestic
+P01066,Apparel,Nightwear,Divena,Free Size,pcs,925.52,SUP054,0,Domestic
+P01067,Grocery,Edible Oil,Dmart Premia (Own Brand),5L,L,790.48,SUP021,154,Domestic
+P01068,Home & Kitchen,Appliances,Pigeon,Set of 3,pcs,1984.26,SUP026,0,Imported
+P01069,FMCG,Beverages,Dmart Premia (Own Brand),6 pcs,pcs,397.74,SUP007,58,Domestic
+P01070,FMCG,Beverages,PepsiCo,500ml,L,395.92,SUP108,63,Imported
+P01071,Electronics,Small Appliances,Havells,Pack of 2,pcs,1446.24,SUP091,0,Domestic
+P01072,Grocery,Spices,Fortune,5kg,g,188.29,SUP023,93,Domestic
+P01073,FMCG,Bakery,PepsiCo,500g,g,109.25,SUP003,211,Domestic
+P01074,Home & Kitchen,Cookware,Tupperware,1L,L,2584.04,SUP039,0,Domestic
+P01075,Personal Care,Skincare,Colgate-Palmolive,150g,g,531.81,SUP091,742,Domestic
+P01076,Personal Care,Oral Care,P&G,200ml,L,61.79,SUP009,723,Domestic
+P01077,FMCG,Beverages,ITC,500g,g,46.56,SUP072,195,Domestic
+P01078,FMCG,Packaged Food,Amul,500ml,L,164.59,SUP113,190,Domestic
+P01079,Apparel,Kids Wear,PUP,M,pcs,1349.6,SUP098,0,Domestic
+P01080,Footwear,Men's Footwear,Relaxo,UK9,pcs,2381.83,SUP110,0,Domestic
+P01081,Toys & Stationery,School Bags,Funskool,Pack of 10,pcs,13.37,SUP069,0,Domestic
+P01082,Grocery,Tea & Coffee,Tata,5kg,g,450.32,SUP118,171,Domestic
+P01083,Grocery,Spices,Aashirvaad,5L,L,803.68,SUP072,268,Imported
+P01084,Home & Kitchen,Cookware,Milton,1 pc,pcs,597.01,SUP103,0,Imported
+P01085,Toys & Stationery,Art Supplies,Classmate,Set of 5,pcs,134.58,SUP097,0,Domestic
+P01086,Apparel,Nightwear,Divena,XL,pcs,1337.27,SUP102,0,Domestic
+P01087,Electronics,Small Appliances,Bajaj,Pack of 2,pcs,1018.82,SUP058,0,Domestic
+P01088,Apparel,Kids Wear,PUP,Free Size,pcs,664.5,SUP054,0,Domestic
+P01089,Apparel,Innerwear,Divena,XL,pcs,1125.96,SUP020,0,Domestic
+P01090,Grocery,Tea & Coffee,Tata,1kg,g,145.68,SUP092,308,Domestic
+P01091,Personal Care,Cosmetics,HUL,250g,g,594.04,SUP042,422,Domestic
+P01092,Personal Care,Haircare,HUL,100ml,L,168.77,SUP065,545,Domestic
+P01093,Grocery,Spices,Fortune,1L,L,549.27,SUP046,98,Domestic
+P01094,Footwear,Men's Footwear,Bata,UK9,pcs,1286.3,SUP116,0,Domestic
+P01095,Toys & Stationery,Art Supplies,Dmart Premia (Own Brand),1 pc,pcs,1054.2,SUP108,0,Domestic
+P01096,Footwear,Kids Footwear,Ortho+Rest,UK9,pcs,2224.34,SUP053,0,Domestic
+P01097,Home & Kitchen,Cookware,Dmart Premia (Own Brand),Set of 3,pcs,2244.67,SUP094,0,Domestic
+P01098,Footwear,Men's Footwear,Dmart Fashion,UK6,pcs,1097.88,SUP055,0,Domestic
+P01099,Apparel,Women's Wear,PUP,XL,pcs,297.66,SUP049,0,Domestic
+P01100,Toys & Stationery,Toys,Funskool,Set of 5,pcs,917.78,SUP006,0,Domestic

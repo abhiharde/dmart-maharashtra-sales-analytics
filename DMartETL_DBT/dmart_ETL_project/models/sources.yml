@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: RAW_DATA
+    tables:
+      - name: sales_transactions
+      - name: store_info
+      - name: products
+      - name: calendar

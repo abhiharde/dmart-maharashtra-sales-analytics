@@ -1,0 +1,61 @@
+🧭 End‑to‑End Project Steps
+
+🔹 Phase 1: Setup
+1. Define business objectives — e.g., sales performance, store trends, product analysis.
+2. Collect raw CSVs — Sales transactions, Store info, Products, Calendar.
+
+---
+
+🔹 Phase 1: Setup
+1. Initialize dbt project → `dbt init dmart_project`.
+2. Configure `profiles.yml` → connect dbt to Snowflake (account, user, role, warehouse, database).
+3. Define sources → in `sources.yml`, point to the `RAW_DATA` schema tables (sales, store, product, calendar).
+
+---
+
+🔹 Phase 2: Bronze Layer (via dbt)
+4. Create BRONZE schema → dbt will materialize models into `DMART_ANALYTICS.BRONZE`.
+5. Bronze models → simple `SELECT ` from `RAW_DATA` sources, preserving raw structure but moving into managed schema.
+6. Run dbt build → `dbt run` to create Bronze tables.
+7. Test Bronze → row counts, schema matches, ingestion validation.
+
+---
+
+🔹 Phase 3: Silver Layer (via dbt)
+8. Create SILVER schema → dbt materializes cleaned tables.
+9. Silver models → apply transformations:
+ - Standardize column names
+ - Cast data types (dates, numbers)
+ - Handle nulls and blanks
+ - Trim whitespace, fix casing
+10. Run dbt tests → uniqueness, not null, referential integrity.
+
+---
+
+🔹 Phase 4: Gold Layer (via dbt)
+12. Create GOLD schema → dbt materializes analytical models.
+13. Design star schema →
+- Fact table: Sales (eg - transaction_id, store_id, product_id, date_id, revenue, quantity, and other numerical objects).
+- Dimensions: eg - Store, Product, Calendar, and other detailed level objects.
+14. Gold models → aggregate Silver data into fact + dimension tables.
+15. Add KPIs → eg - revenue, sales volume, avg basket size, store performance.
+16. Run dbt build → compile and materialize Gold tables.
+
+
+
+
+
+---
+
+🔹 Phase 5: Visualization (Power BI)
+18. Connect Power BI to Snowflake → using Snowflake connector (warehouse, DB, schema).
+19. Import Gold tables → fact + dimensions into Power BI model.
+20. Build dashboard →
+- Sales trends over time
+- Store performance comparison
+- Product category breakdown
+- Seasonal analysis via calendar dimension
+21. Add filters & slicers → by store, product category, date range.
+22. Publish dashboard → share via Power BI Service.
+
+---

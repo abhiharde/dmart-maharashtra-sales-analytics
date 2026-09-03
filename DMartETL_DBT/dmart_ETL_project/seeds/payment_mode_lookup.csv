@@ -1,0 +1,5 @@
+payment_mode,payment_group
+Cash,Offline
+Card,Offline
+UPI,Digital
+Wallet,Digital

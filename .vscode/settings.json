@@ -1,0 +1,4 @@
+{
+    "dbt.queryLimit": 20,
+    "dbt.dbtPythonPathOverride": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+}

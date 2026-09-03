@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+
+# dbt generated files
+**/target/
+**/dbt_packages/
+**/logs/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+profiles.yml
+**/profiles.yml
+
+# Python and editor cache
+__pycache__/
+*.py[cod]
+.vscode/*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+name: dmart_etl_project
+version: '1.0.0'
+
+profile: dmart_ETL_project
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  dmart_etl_project:
+    bronze:
+      +materialized: view
+      +schema: BRONZE
+    silver:
+      +materialized: view
+      +schema: SILVER
+    gold:
+      +materialized: table
+      +schema: GOLD
